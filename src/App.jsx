@@ -11,14 +11,17 @@ const App = () => {
     setCodenumber("");
   };
   return (
-    <div className="flex flex-col items-center mx-auto py-10 text-green-700 max-w-xs sm:max-w-xs">
+    <div className="flex flex-col items-center mx-auto py-10 text-green-700 min-w-max max-w-xs sm:max-w-xs">
+      <h1 className="font-bold text-xl mb-8">Weekly Dharan Run</h1>
+
       <form
         onSubmit={handleSubmit}
-        className="flex flex-col gap-2 mb-4 items-center"
+        className="flex flex-col gap-2 mb-8 items-center w-full"
       >
-        <label htmlFor="txn-code">Enter Your Code Number:</label>
+        <label htmlFor="code-number">Enter Your Code Number:</label>
         <input
-          id="txn-code"
+          id="code-number"
+          type="number"
           value={codenumber}
           placeholder="Code number"
           onChange={(e) => setCodenumber(Number(e.target.value))}
@@ -26,7 +29,7 @@ const App = () => {
         />
         <button
           type="submit"
-          className="bg-green-600 py-2 rounded-full w-1/2 text-white hover:outline-1 hover:outline-green-800/40 hover:bg-green-500 hover:shadow-md"
+          className="bg-green-700 py-2 rounded-full w-1/2 text-white hover:outline-1 hover:outline-green-700/40 hover:bg-green-600 hover:shadow-md"
         >
           Check
         </button>
@@ -35,14 +38,14 @@ const App = () => {
         <div className="flex justify-between gap-2 w-full border-2 border-green-700 sm:max-w-xs">
           {runner.map((data) => (
             <>
-              <div key={data.ID} className="w-2/3 p-3 font-semibold">
+              <div key={data.ID} className="w-3/5 p-3 font-semibold">
                 <p>Code No.: {data.ID}</p>
-                <p className="text-xl pt-2">{data["Fullname"]}</p>
+                <p className="text-lg pt-2">{data["Fullname"]}</p>
               </div>
 
-              <div className="bg-green-700 w-1/3 text-green-100 text-center py-4">
+              <div className="bg-green-700 w-2/5 text-green-100 text-center py-4">
                 <p>
-                  <span className="font-bold text-4xl">{data["RunCount"]}</span>
+                  <span className="font-bold text-6xl">{data["RunCount"]}</span>
                   <br />
                   weeks
                 </p>
