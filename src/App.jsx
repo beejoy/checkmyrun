@@ -14,8 +14,11 @@ const App = () => {
 
   const handleSearchCodeNumber = (e) => {
     e.preventDefault();
+    console.log(name.length);
     setRunner(
-      runData.filter((data) => data.Fullname.toLowerCase().match(`${name}`))
+      runData.filter((data) =>
+        data.Fullname.toLowerCase().match(name.length > 0 ? name : "xiaomi")
+      )
     );
     setName("");
   };
@@ -81,7 +84,7 @@ const App = () => {
             type="text"
             placeholder="Enter name"
             value={name}
-            onChange={(e) => setName(e.target.value)}
+            onChange={(e) => setName(e.target.value.toLowerCase())}
             className="text-green-700 border-green-700 outline-green-700 text-center px-5 py-2 rounded-full border-2 w-full"
           />
           <button
@@ -93,14 +96,16 @@ const App = () => {
         </form>
 
         {runner && runner.length > 0 ? (
-          <div className="flex flex-col gap-y-4 w-full sm:max-w-xs">
+          <div className="flex flex-col gap-y-3 w-full sm:max-w-xs">
             {runner.map((data) => (
               <>
                 <div
                   key={data.ID}
-                  className="w-full p-3 bg-green-100 text-sm outline-1 outline-green-700 rounded-lg shadow-md shadow-green-700"
+                  className="w-full p-3  text-sm outline-1 bg-white outline-green-700 rounded-lg shadow-md "
                 >
-                  <p>Code No.: {data.ID}</p>
+                  <p>
+                    Code No.: <span className="font-bold">{data.ID}</span>
+                  </p>
                   <p>
                     Name: {data["Fullname"]}, ({data["Age"]}/{data["Sex"]})
                   </p>
