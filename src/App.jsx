@@ -1,5 +1,7 @@
+import MemberCard from "./components/MemberCard";
 import runData from "./rundata.json";
 import React, { useState } from "react";
+import logo from "./assets/dharan-run-logo.jpg";
 
 const App = () => {
   const [codenumber, setCodenumber] = useState("");
@@ -24,14 +26,20 @@ const App = () => {
   };
   return (
     <>
-      <div className="flex flex-col items-center mx-auto py-10 text-green-700 min-w-max max-w-xs sm:max-w-xs">
-        <h1 className="font-bold text-xl mb-8">Weekly Dharan Run</h1>
-
+      <div className="flex flex-col items-center mx-auto py-8 text-green-700 max-w-xs sm:max-w-xs">
+        <img
+          src={logo}
+          alt="Dharan Run"
+          className="rounded-full w-1/2 border-2 border-green-700 mb-8"
+        />
+        {/* <h1 className="font-bold text-2xl tracking-wider mb-8">
+          WEEKLY DHARAN RUN
+        </h1> */}
         <form
           onSubmit={handleSubmit}
-          className="flex flex-col gap-2 mb-8 items-center w-full"
+          className="flex flex-col gap-2 mb-0 items-center w-full"
         >
-          <label htmlFor="code-number">Enter Your Code Number:</label>
+          <label htmlFor="code-number">Enter Code Number:</label>
           <input
             id="code-number"
             type="number"
@@ -48,10 +56,10 @@ const App = () => {
           </button>
         </form>
         {runner && runner.length === 1 ? (
-          <div className="flex justify-between items-center gap-2 w-full border-2 border-green-700 sm:max-w-xs">
+          <div className="flex justify-between items-center mt-8 gap-2 w-full border-2 border-green-700 sm:max-w-xs">
             {runner.map((data) => (
-              <>
-                <div key={data.ID} className="w-3/5 p-3 font-semibold">
+              <React.Fragment key={data.ID}>
+                <div className="w-3/5 p-3 font-semibold">
                   <p>Code No.: {data.ID}</p>
                   <p className="text-lg pt-2">{data["Fullname"]}</p>
                 </div>
@@ -65,24 +73,24 @@ const App = () => {
                     weeks
                   </p>
                 </div>
-              </>
+              </React.Fragment>
             ))}
           </div>
         ) : (
-          ""
+          <></>
         )}
       </div>
 
-      <div className="flex flex-col items-center mx-auto py-10 text-green-700 min-w-max max-w-xs sm:max-w-xs">
+      <div className="flex flex-col items-center mx-auto pb-10 text-green-700 min-w-max max-w-xs sm:max-w-xs">
         <form
           onSubmit={handleSearchCodeNumber}
           className="flex flex-col gap-2 mb-8 items-center w-full"
         >
-          <label htmlFor="member-name">Enter Runner Name:</label>
+          <label htmlFor="member-name">Enter Runner's Name:</label>
           <input
             id="member-name"
             type="text"
-            placeholder="Enter name"
+            placeholder="Full or partial name"
             value={name}
             onChange={(e) => setName(e.target.value.toLowerCase())}
             className="text-green-700 border-green-700 outline-green-700 text-center px-5 py-2 rounded-full border-2 w-full"
@@ -98,20 +106,7 @@ const App = () => {
         {runner && runner.length > 0 ? (
           <div className="flex flex-col gap-y-3 w-full sm:max-w-xs">
             {runner.map((data) => (
-              <>
-                <div
-                  key={data.ID}
-                  className="w-full p-3  text-sm outline-1 bg-white outline-green-700 rounded-lg shadow-md "
-                >
-                  <p>
-                    Code No.: <span className="font-bold">{data.ID}</span>
-                  </p>
-                  <p>
-                    Name: {data["Fullname"]}, ({data["Age"]}/{data["Sex"]})
-                  </p>
-                  <p>{data["Remarks"]}</p>
-                </div>
-              </>
+              <MemberCard data={data} key={data.ID} />
             ))}
           </div>
         ) : (
