@@ -16,7 +16,6 @@ const App = () => {
 
   const handleSearchCodeNumber = (e) => {
     e.preventDefault();
-    console.log(name.length);
     setRunner(
       runData.filter((data) =>
         data.Fullname.toLowerCase().match(name.length > 0 ? name : "xiaomi")
