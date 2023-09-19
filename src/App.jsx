@@ -69,7 +69,7 @@ const App = () => {
                       {data["RunCount"]}
                     </span>
                     <br />
-                    weeks
+                    {data["RunCount"] === 1 ? "Week" : "Weeks"}
                   </p>
                 </div>
               </React.Fragment>
@@ -104,6 +104,9 @@ const App = () => {
 
         {runner && runner.length > 0 ? (
           <div className="flex flex-col gap-y-3 w-full sm:max-w-xs">
+            <h2 className="text-right font-semibold">
+              {runner.length} {runner.length === 1 ? "record" : "records"} found
+            </h2>
             {runner.map((data) => (
               <MemberCard data={data} key={data.ID} />
             ))}
