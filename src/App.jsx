@@ -37,13 +37,13 @@ const App = () => {
             id="code-number"
             type="text"
             value={searchTerm}
-            placeholder="Code number or name"
+            placeholder="Enter code number or name"
             onChange={(e) => setSearchTerm(e.target.value.toLowerCase())}
-            className="text-green-700 border-green-700 outline-green-700 text-center px-5 py-2 rounded-full border-2 w-full"
+            className="text-green-700 border-green-700 outline-green-700 outline-1 text-center px-5 py-2 rounded-md border w-full"
           />
           <button
             type="submit"
-            className="bg-green-700 py-2 rounded-full w-1/2 text-white hover:outline-1 hover:outline-green-700/40 hover:bg-green-600 hover:shadow-md"
+            className="bg-green-700 py-2 px-10 rounded-md text-white hover:outline-1 hover:outline-green-700/40 hover:bg-green-600 hover:shadow-md"
           >
             Search
           </button>
@@ -58,7 +58,7 @@ const App = () => {
                 {runner.length} {runner.length === 1 ? "record" : "records"}
               </h2>
             </div>
-            <div className="flex flex-col md:flex-row md:flex-wrap md:justify-between gap-y-3 sm:max-w-xs md:max-w-2xl">
+            <div className="flex flex-col md:flex-row md:flex-wrap justify-between gap-y-4 sm:max-w-xs md:max-w-2xl">
               {runner.map((data) => (
                 <MemberCard data={data} key={data.ID} />
               ))}
