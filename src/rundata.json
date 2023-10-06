@@ -13929,7 +13929,7 @@
   },
   {
     "ID": 1905,
-    "Fullname": "",
+    "Fullname": "No name",
     "Age": "",
     "Sex": "",
     "Remarks": "",
@@ -14874,32 +14874,32 @@
   {
     "ID": 2103,
     "Fullname": "No name",
-    "Age": 10,
-    "Sex": "0",
+    "Age": "",
+    "Sex": "",
     "Remarks": "",
     "RunCount": 10
   },
   {
     "ID": 2105,
     "Fullname": "No name",
-    "Age": 10,
-    "Sex": "0",
+    "Age": "",
+    "Sex": "",
     "Remarks": "",
     "RunCount": 5
   },
   {
     "ID": 2107,
     "Fullname": "No name",
-    "Age": 10,
-    "Sex": "0",
+    "Age": "",
+    "Sex": "",
     "Remarks": "",
     "RunCount": 10
   },
   {
     "ID": 2108,
     "Fullname": "No name",
-    "Age": 10,
-    "Sex": "0",
+    "Age": "",
+    "Sex": "",
     "Remarks": "",
     "RunCount": 2
   },
@@ -70269,7 +70269,7 @@
     "Age": 11,
     "Sex": "F",
     "Remarks": "Father:Roman Limbu",
-    "RunCount": 40
+    "RunCount": 57
   },
   {
     "ID": 9858,
@@ -89249,7 +89249,7 @@
   },
   {
     "ID": 12406,
-    "Fullname": "Empty",
+    "Fullname": "No name",
     "Age": "",
     "Sex": "",
     "Remarks": "",
@@ -90361,7 +90361,7 @@
   },
   {
     "ID": 12555,
-    "Fullname": "",
+    "Fullname": "No name",
     "Age": "",
     "Sex": "",
     "Remarks": "",
@@ -92014,14 +92014,6 @@
     "Sex": "M",
     "Remarks": "Father:Tara Bdr. Gurung",
     "RunCount": 4
-  },
-  {
-    "ID": 12825,
-    "Fullname": "",
-    "Age": "",
-    "Sex": "",
-    "Remarks": "",
-    "RunCount": 17
   },
   {
     "ID": 12826,
@@ -102258,7 +102250,7 @@
   {
     "ID": 14243,
     "Fullname": "Gajen Rai",
-    "Age": -961,
+    "Age": 39,
     "Sex": "M",
     "Remarks": "Parent's Name:-Ganesh Rai",
     "RunCount": 23
@@ -103445,7 +103437,7 @@
     "Age": 13,
     "Sex": "F",
     "Remarks": "Parent's Name:-Milan Pariyar",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14397,
