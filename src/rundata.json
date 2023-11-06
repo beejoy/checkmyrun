@@ -117209,6 +117209,14 @@
   },
   {
     "ID": 14743,
+    "Fullname": "Nirvaya Subba",
+    "Age": 11,
+    "Sex": "M",
+    "Remarks": "Parent's Name:-Avay Subba",
+    "RunCount": 1
+  },
+  {
+    "ID": 14744,
     "Fullname": "Aarush Gajmer",
     "Age": 7,
     "Sex": "M",
@@ -117216,7 +117224,7 @@
     "RunCount": 1
   },
   {
-    "ID": 14744,
+    "ID": 14745,
     "Fullname": "Sujal Bhujel",
     "Age": 10,
     "Sex": "M",
