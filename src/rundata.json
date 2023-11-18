@@ -78163,7 +78163,7 @@
     "ID": 9857,
     "Fullname": "Ishaan Limbu",
     "Age": 11,
-    "Sex": "F",
+    "Sex": "M",
     "Remarks": "Father:Roman Limbu",
     "RunCount": 62
   },
@@ -113266,10 +113266,10 @@
   {
     "ID": 14250,
     "Fullname": "Roman Limbu",
-    "Age": 4,
+    "Age": 48,
     "Sex": "M",
     "Remarks": "Parent's Name:-Hikmat Limbu",
-    "RunCount": 37
+    "RunCount": 34
   },
   {
     "ID": 14251,
@@ -113277,7 +113277,7 @@
     "Age": 11,
     "Sex": "M",
     "Remarks": "Parent's Name:-Roman Limbu",
-    "RunCount": 31
+    "RunCount": 34
   },
   {
     "ID": 14252,
