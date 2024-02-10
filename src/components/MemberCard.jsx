@@ -19,7 +19,7 @@ const MemberCard = ({ data }) => {
         <span>Distance: {data["RunCount"] * 3.5} km</span>
       </p>
 
-      <p>{data["Remarks"]}</p>
+      <p>{data["Parent"]}</p>
     </div>
   );
 };
