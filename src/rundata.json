@@ -517,7 +517,7 @@
     "Age": 67,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 431
+    "RunCount": 432
   },
   {
     "ID": 66,
@@ -1121,11 +1121,11 @@
   },
   {
     "ID": 141,
-    "Fullname": "Udhav Rai",
+    "Fullname": "Uddhav Rai",
     "Age": 59,
     "Sex": "M",
-    "Parent": "",
-    "RunCount": 45
+    "Parent": "Manbir Rai",
+    "RunCount": 46
   },
   {
     "ID": 142,
@@ -3061,7 +3061,7 @@
     "Age": 25,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 59
+    "RunCount": 60
   },
   {
     "ID": 384,
@@ -26909,7 +26909,7 @@
     "Age": 22,
     "Sex": "M",
     "Parent": "sitaram rai",
-    "RunCount": 181
+    "RunCount": 182
   },
   {
     "ID": 3447,
@@ -31917,7 +31917,7 @@
     "Age": 24,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 17
+    "RunCount": 18
   },
   {
     "ID": 4074,
@@ -32749,7 +32749,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 135
+    "RunCount": 136
   },
   {
     "ID": 4178,
@@ -41525,7 +41525,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 136
+    "RunCount": 137
   },
   {
     "ID": 5275,
@@ -43413,7 +43413,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 112
+    "RunCount": 113
   },
   {
     "ID": 5511,
@@ -44085,7 +44085,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 112
+    "RunCount": 113
   },
   {
     "ID": 5595,
@@ -45933,7 +45933,7 @@
     "Age": 55,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 150
+    "RunCount": 151
   },
   {
     "ID": 5826,
@@ -48765,7 +48765,7 @@
     "Age": 51,
     "Sex": "M",
     "Parent": "Indra b Tamang",
-    "RunCount": 214
+    "RunCount": 215
   },
   {
     "ID": 6180,
@@ -49301,7 +49301,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Dorpa Rai",
-    "RunCount": 65
+    "RunCount": 66
   },
   {
     "ID": 6247,
@@ -50453,7 +50453,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Ram Limbu",
-    "RunCount": 200
+    "RunCount": 201
   },
   {
     "ID": 6391,
@@ -50621,7 +50621,7 @@
     "Age": 64,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 178
+    "RunCount": 179
   },
   {
     "ID": 6412,
@@ -51045,7 +51045,7 @@
     "Age": 50,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 257
+    "RunCount": 258
   },
   {
     "ID": 6465,
@@ -51101,7 +51101,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 69
+    "RunCount": 70
   },
   {
     "ID": 6472,
@@ -52213,7 +52213,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "Bharati Mukhiya",
-    "RunCount": 81
+    "RunCount": 82
   },
   {
     "ID": 6611,
@@ -66317,7 +66317,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "indra",
-    "RunCount": 67
+    "RunCount": 68
   },
   {
     "ID": 8374,
@@ -68165,7 +68165,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Kamal Limbu",
-    "RunCount": 72
+    "RunCount": 73
   },
   {
     "ID": 8605,
@@ -69516,7 +69516,7 @@
     "Fullname": "Sesehang Limbu",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parents Name Nirmala Rai",
+    "Parent": "Nirmala Rai",
     "RunCount": 185
   },
   {
@@ -69924,7 +69924,7 @@
     "Fullname": "Santi Jimee",
     "Age": 29,
     "Sex": "F",
-    "Parent": "Mikhan JIMEE",
+    "Parent": "Mikhan Jimee",
     "RunCount": 4
   },
   {
@@ -72557,7 +72557,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Amar Tamang",
-    "RunCount": 72
+    "RunCount": 73
   },
   {
     "ID": 9157,
@@ -78165,7 +78165,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Roman Limbu",
-    "RunCount": 73
+    "RunCount": 74
   },
   {
     "ID": 9858,
@@ -78276,7 +78276,7 @@
     "Fullname": "Riya Shakya",
     "Age": 17,
     "Sex": "F",
-    "Parent": "Fahter/MotherBisham Shakya",
+    "Parent": "Bisham Shakya",
     "RunCount": 4
   },
   {
@@ -78284,7 +78284,7 @@
     "Fullname": "Ningma Rai",
     "Age": 19,
     "Sex": "M",
-    "Parent": "FahterSuren Rai",
+    "Parent": "Suren Rai",
     "RunCount": 2
   },
   {
@@ -78308,7 +78308,7 @@
     "Fullname": "Nilam Subedi",
     "Age": 19,
     "Sex": "M",
-    "Parent": "FahterSagar Subedi",
+    "Parent": "Sagar Subedi",
     "RunCount": 2
   },
   {
@@ -78357,7 +78357,7 @@
     "Age": 23,
     "Sex": "M",
     "Parent": "Tirple Limbu",
-    "RunCount": 63
+    "RunCount": 64
   },
   {
     "ID": 9882,
@@ -78405,7 +78405,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Chandra Limbu",
-    "RunCount": 138
+    "RunCount": 139
   },
   {
     "ID": 9888,
@@ -79012,7 +79012,7 @@
     "Fullname": "Rojak B.K.",
     "Age": 17,
     "Sex": "M",
-    "Parent": "Fathe/MotherSarswati",
+    "Parent": "Sarswati",
     "RunCount": 3
   },
   {
@@ -79068,7 +79068,7 @@
     "Fullname": "Pramila Tamang",
     "Age": 34,
     "Sex": "F",
-    "Parent": "Khangrndra Tamang",
+    "Parent": "Khangendra Tamang",
     "RunCount": 6
   },
   {
@@ -79469,7 +79469,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Kailash Rai",
-    "RunCount": 159
+    "RunCount": 160
   },
   {
     "ID": 10021,
@@ -79645,7 +79645,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Ganesh Limbu",
-    "RunCount": 110
+    "RunCount": 111
   },
   {
     "ID": 10043,
@@ -81260,7 +81260,7 @@
     "Fullname": "Padam Rai",
     "Age": 25,
     "Sex": "M",
-    "Parent": "Fath/MotherRatna Ra",
+    "Parent": "Ratna Ra",
     "RunCount": 1
   },
   {
@@ -81484,7 +81484,7 @@
     "Fullname": "Loyan Rai",
     "Age": 19,
     "Sex": "M",
-    "Parent": "Bhddi Raj Rai",
+    "Parent": "Buddhi Raj Rai",
     "RunCount": 0
   },
   {
@@ -81885,7 +81885,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Raj K. Das",
-    "RunCount": 16
+    "RunCount": 17
   },
   {
     "ID": 10323,
@@ -81988,7 +81988,7 @@
     "Fullname": "Prince Lama",
     "Age": 22,
     "Sex": "M",
-    "Parent": "suraj Lama",
+    "Parent": "Suraj Lama",
     "RunCount": 13
   },
   {
@@ -82620,7 +82620,7 @@
     "Fullname": "Tikaraj Limbu",
     "Age": 18,
     "Sex": "M",
-    "Parent": "dil kumar Limbu",
+    "Parent": "Dil Kumar Limbu",
     "RunCount": 19
   },
   {
@@ -82692,7 +82692,7 @@
     "Fullname": "Saurab B.k.",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Dhdan. B. B.K.",
+    "Parent": "Dhan. B. B.K.",
     "RunCount": 1
   },
   {
@@ -83316,7 +83316,7 @@
     "Fullname": "Sandesh Tamang",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Lal b Tmang",
+    "Parent": "Lal Bahadur Tmang",
     "RunCount": 2
   },
   {
@@ -83324,7 +83324,7 @@
     "Fullname": "Anish Magar",
     "Age": 19,
     "Sex": "M",
-    "Parent": "yuraj Magar",
+    "Parent": "Yuraj Magar",
     "RunCount": 4
   },
   {
@@ -83332,7 +83332,7 @@
     "Fullname": "Omkar Rai",
     "Age": 42,
     "Sex": "M",
-    "Parent": "omwar rai",
+    "Parent": "Omwar Rai",
     "RunCount": 3
   },
   {
@@ -83340,7 +83340,7 @@
     "Fullname": "Tulip Tamang",
     "Age": 19,
     "Sex": "M",
-    "Parent": "biswa tamang",
+    "Parent": "Biswa Tamang",
     "RunCount": 1
   },
   {
@@ -83356,7 +83356,7 @@
     "Fullname": "Dhiraj Tamang",
     "Age": 25,
     "Sex": "M",
-    "Parent": "Sidhi b tamang",
+    "Parent": "Sidhi Bahadur Tamang",
     "RunCount": 4
   },
   {
@@ -83364,7 +83364,7 @@
     "Fullname": "Bijay Magar",
     "Age": 25,
     "Sex": "M",
-    "Parent": "Lok b magar",
+    "Parent": "Lok Bahadur Magar",
     "RunCount": 1
   },
   {
@@ -83372,7 +83372,7 @@
     "Fullname": "Susmita Rai",
     "Age": 20,
     "Sex": "F",
-    "Parent": "Shri rai",
+    "Parent": "Shri Rai",
     "RunCount": 1
   },
   {
@@ -83380,7 +83380,7 @@
     "Fullname": "Manika Rai",
     "Age": 20,
     "Sex": "F",
-    "Parent": "Raj k rai",
+    "Parent": "Raj Kumar Rai",
     "RunCount": 2
   },
   {
@@ -83388,7 +83388,7 @@
     "Fullname": "Aditya BK",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Harka bk",
+    "Parent": "Harka B.K.",
     "RunCount": 1
   },
   {
@@ -83396,7 +83396,7 @@
     "Fullname": "Alina Rai",
     "Age": 31,
     "Sex": "F",
-    "Parent": "Dalsu rai",
+    "Parent": "Dalsu Rai",
     "RunCount": 1
   },
   {
@@ -83404,7 +83404,7 @@
     "Fullname": "Drishya Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Prakash rai",
+    "Parent": "Prakash Rai",
     "RunCount": 1
   },
   {
@@ -83412,7 +83412,7 @@
     "Fullname": "Bibes Rai",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Lokendra rai",
+    "Parent": "Lokendra Rai",
     "RunCount": 1
   },
   {
@@ -83420,7 +83420,7 @@
     "Fullname": "Ningwa Limbu",
     "Age": 14,
     "Sex": "M",
-    "Parent": "basu limbu",
+    "Parent": "Basu Limbu",
     "RunCount": 2
   },
   {
@@ -83428,7 +83428,7 @@
     "Fullname": "Diren Rai",
     "Age": 21,
     "Sex": "M",
-    "Parent": "man b rai",
+    "Parent": "Man Bahadur Rai",
     "RunCount": 1
   },
   {
@@ -83436,7 +83436,7 @@
     "Fullname": "Arjun Limbu",
     "Age": 20,
     "Sex": "M",
-    "Parent": "sub b limbu",
+    "Parent": "Sub Bahadur Limbu",
     "RunCount": 1
   },
   {
@@ -83597,7 +83597,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Kamal Rai",
-    "RunCount": 169
+    "RunCount": 170
   },
   {
     "ID": 10537,
@@ -83732,7 +83732,7 @@
     "Fullname": "Nikesh B.K.",
     "Age": 17,
     "Sex": "M",
-    "Parent": "Niraj B.k.",
+    "Parent": "Niraj B.K.",
     "RunCount": 2
   },
   {
@@ -83909,14 +83909,14 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Rajendra Rai",
-    "RunCount": 163
+    "RunCount": 164
   },
   {
     "ID": 10576,
     "Fullname": "Yukphung Limbu",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherJit Bdr. Limbu",
+    "Parent": "Jit Bdr. Limbu",
     "RunCount": 6
   },
   {
@@ -83924,7 +83924,7 @@
     "Fullname": "Arpan Uraw",
     "Age": 17,
     "Sex": "M",
-    "Parent": "FaherBasant Uraw",
+    "Parent": "Basant Uraw",
     "RunCount": 1
   },
   {
@@ -83932,7 +83932,7 @@
     "Fullname": "Saimon Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "FaherSuresh Rai",
+    "Parent": "Suresh Rai",
     "RunCount": 23
   },
   {
@@ -83940,7 +83940,7 @@
     "Fullname": "Albin Limbu",
     "Age": 20,
     "Sex": "M",
-    "Parent": "FaherTej Kumar Limbu",
+    "Parent": "Tej Kumar Limbu",
     "RunCount": 50
   },
   {
@@ -83948,7 +83948,7 @@
     "Fullname": "Rishab Kalikote",
     "Age": 19,
     "Sex": "M",
-    "Parent": "FaherYuvraj Kalikote",
+    "Parent": "Yuvraj Kalikote",
     "RunCount": 3
   },
   {
@@ -83956,7 +83956,7 @@
     "Fullname": "Pranish Limbu",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherSujit Limbu",
+    "Parent": "Sujit Limbu",
     "RunCount": 1
   },
   {
@@ -83964,7 +83964,7 @@
     "Fullname": "Ayush gurung",
     "Age": 18,
     "Sex": "M",
-    "Parent": "FaherKrishna Gurung",
+    "Parent": "Krishna Gurung",
     "RunCount": 2
   },
   {
@@ -83972,7 +83972,7 @@
     "Fullname": "Saimon Rai",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherBijay Rai",
+    "Parent": "Bijay Rai",
     "RunCount": 3
   },
   {
@@ -83980,7 +83980,7 @@
     "Fullname": "Krishna Basnet",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherYam Bdr. Basnet",
+    "Parent": "Yam Bdr. Basnet",
     "RunCount": 1
   },
   {
@@ -83988,7 +83988,7 @@
     "Fullname": "Anil Gurung",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherKhem Raj Gurung",
+    "Parent": "Khem Raj Gurung",
     "RunCount": 1
   },
   {
@@ -83996,7 +83996,7 @@
     "Fullname": "Sneha Rai",
     "Age": 16,
     "Sex": "F",
-    "Parent": "FaherGum Bdr. Rai",
+    "Parent": "Gum Bdr. Rai",
     "RunCount": 5
   },
   {
@@ -84004,7 +84004,7 @@
     "Fullname": "Purnima Magar",
     "Age": 17,
     "Sex": "M",
-    "Parent": "FaherKul Bdr. Magar",
+    "Parent": "Kul Bdr. Magar",
     "RunCount": 2
   },
   {
@@ -84012,7 +84012,7 @@
     "Fullname": "Mohammad Shail",
     "Age": 15,
     "Sex": "M",
-    "Parent": "FaherAbsul Shail",
+    "Parent": "Absul Shail",
     "RunCount": 3
   },
   {
@@ -84020,7 +84020,7 @@
     "Fullname": "Hussain Ali",
     "Age": 15,
     "Sex": "M",
-    "Parent": "FaherAslam Ali",
+    "Parent": "Aslam Ali",
     "RunCount": 1
   },
   {
@@ -84028,7 +84028,7 @@
     "Fullname": "Wahid Khan",
     "Age": 16,
     "Sex": "M",
-    "Parent": "FaherArman Khan",
+    "Parent": "Arman Khan",
     "RunCount": 1
   },
   {
@@ -84036,7 +84036,7 @@
     "Fullname": "Niraj Dhimal",
     "Age": 17,
     "Sex": "M",
-    "Parent": "FaherRajan Dhimal",
+    "Parent": "Rajan Dhimal",
     "RunCount": 1
   },
   {
@@ -84044,7 +84044,7 @@
     "Fullname": "Rohan Rai",
     "Age": 19,
     "Sex": "M",
-    "Parent": "FaherSantosh Rai",
+    "Parent": "Santosh Rai",
     "RunCount": 1
   },
   {
@@ -84052,7 +84052,7 @@
     "Fullname": "Saroj Ghimire",
     "Age": 21,
     "Sex": "M",
-    "Parent": "FaherIndra Ghimire",
+    "Parent": "Indra Ghimire",
     "RunCount": 1
   },
   {
@@ -84060,7 +84060,7 @@
     "Fullname": "Sures B.K.",
     "Age": 13,
     "Sex": "M",
-    "Parent": "FaherBimal B.K.",
+    "Parent": "Bimal B.K.",
     "RunCount": 6
   },
   {
@@ -84068,7 +84068,7 @@
     "Fullname": "Nebina B.K.",
     "Age": 16,
     "Sex": "F",
-    "Parent": "FaherBimal B.K.",
+    "Parent": "Bimal B.K.",
     "RunCount": 4
   },
   {
@@ -84076,7 +84076,7 @@
     "Fullname": "Namrata Tamang",
     "Age": 14,
     "Sex": "F",
-    "Parent": "FaherUday Tamang",
+    "Parent": "Uday Tamang",
     "RunCount": 4
   },
   {
@@ -84748,7 +84748,7 @@
     "Fullname": "Praju Rai",
     "Age": 31,
     "Sex": "F",
-    "Parent": "FaherGopak Kr. Rai",
+    "Parent": "Gopak Kr. Rai",
     "RunCount": 2
   },
   {
@@ -84756,7 +84756,7 @@
     "Fullname": "Purnima Limbu",
     "Age": 19,
     "Sex": "F",
-    "Parent": "FaherDamber Limbu",
+    "Parent": "Damber Limbu",
     "RunCount": 26
   },
   {
@@ -84764,7 +84764,7 @@
     "Fullname": "Manisha Rai",
     "Age": 18,
     "Sex": "F",
-    "Parent": "FaherDhanmendra Rai",
+    "Parent": "Dhanmendra Rai",
     "RunCount": 56
   },
   {
@@ -84845,7 +84845,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Dhanshor Limbu",
-    "RunCount": 175
+    "RunCount": 176
   },
   {
     "ID": 10693,
@@ -86428,7 +86428,7 @@
     "Fullname": "Abash B.K.",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Sanu B.k.",
+    "Parent": "Sanu B.K.",
     "RunCount": 2
   },
   {
@@ -86436,7 +86436,7 @@
     "Fullname": "Sagar Rai",
     "Age": 24,
     "Sex": "M",
-    "Parent": "c.K. Rai",
+    "Parent": "C.K. Rai",
     "RunCount": 4
   },
   {
@@ -86444,7 +86444,7 @@
     "Fullname": "Sashant B.K.",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Suraj B.k.",
+    "Parent": "Suraj B.K.",
     "RunCount": 1
   },
   {
@@ -86476,7 +86476,7 @@
     "Fullname": "Ujwal Limbu",
     "Age": 26,
     "Sex": "M",
-    "Parent": "FaherKamal Prasad Limbu",
+    "Parent": "Kamal Prasad Limbu",
     "RunCount": 4
   },
   {
@@ -86580,15 +86580,15 @@
     "Fullname": "Anan Rai",
     "Age": 24,
     "Sex": "M",
-    "Parent": "chandra rai",
+    "Parent": "Chandra Rai",
     "RunCount": 0
   },
   {
     "ID": 10910,
-    "Fullname": "KABIHANG RAI",
+    "Fullname": "Kabihang Rai",
     "Age": 15,
     "Sex": "M",
-    "Parent": "BHUWAN RAI",
+    "Parent": "Bhuwan Rai",
     "RunCount": 49
   },
   {
@@ -86628,7 +86628,7 @@
     "Fullname": "Sanga Sherpa",
     "Age": 16,
     "Sex": "M",
-    "Parent": "PembaSherpa",
+    "Parent": "Pemba Sherpa",
     "RunCount": 4
   },
   {
@@ -86644,7 +86644,7 @@
     "Fullname": "Ankit Dahal",
     "Age": 22,
     "Sex": "M",
-    "Parent": "DurgaDahal",
+    "Parent": "Durga Dahal",
     "RunCount": 9
   },
   {
@@ -86732,7 +86732,7 @@
     "Fullname": "Kelvin Gale",
     "Age": 16,
     "Sex": "M",
-    "Parent": "kishor Gale",
+    "Parent": "Kishor Gale",
     "RunCount": 1
   },
   {
@@ -86892,7 +86892,7 @@
     "Fullname": "Bishal Subba",
     "Age": 23,
     "Sex": "M",
-    "Parent": "Hemraj subba",
+    "Parent": "Hemraj Subba",
     "RunCount": 1
   },
   {
@@ -86908,7 +86908,7 @@
     "Fullname": "Prayash Rai",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Rabin rai",
+    "Parent": "Rabin Rai",
     "RunCount": 0
   },
   {
@@ -86932,7 +86932,7 @@
     "Fullname": "Nikhil Malik",
     "Age": 17,
     "Sex": "M",
-    "Parent": "santosh Malik",
+    "Parent": "Santosh Malik",
     "RunCount": 1
   },
   {
@@ -86948,7 +86948,7 @@
     "Fullname": "Jesika Tamang",
     "Age": 15,
     "Sex": "F",
-    "Parent": "budharaj Tamang",
+    "Parent": "Budharaj Tamang",
     "RunCount": 23
   },
   {
@@ -86956,7 +86956,7 @@
     "Fullname": "prajwal Tamang",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Man kumar tamang",
+    "Parent": "Man Kumar Tamang",
     "RunCount": 4
   },
   {
@@ -86964,7 +86964,7 @@
     "Fullname": "Nischit sherpa",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Pasang sherpa",
+    "Parent": "Pasang Sherpa",
     "RunCount": 1
   },
   {
@@ -87004,7 +87004,7 @@
     "Fullname": "Yukesh Maden",
     "Age": 17,
     "Sex": "M",
-    "Parent": "CHANDRA MADEN",
+    "Parent": "Chandra Maden",
     "RunCount": 30
   },
   {
@@ -89085,7 +89085,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Shivaraj Rai",
-    "RunCount": 54
+    "RunCount": 55
   },
   {
     "ID": 11223,
@@ -89397,7 +89397,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Binod Dewan",
-    "RunCount": 78
+    "RunCount": 79
   },
   {
     "ID": 11262,
@@ -90301,7 +90301,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Hari Darnal",
-    "RunCount": 133
+    "RunCount": 134
   },
   {
     "ID": 11375,
@@ -90877,7 +90877,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Tulshi Limbu",
-    "RunCount": 41
+    "RunCount": 42
   },
   {
     "ID": 11447,
@@ -91677,7 +91677,7 @@
     "Age": 16,
     "Sex": "F",
     "Parent": "suresh tamang",
-    "RunCount": 100
+    "RunCount": 101
   },
   {
     "ID": 11547,
@@ -92173,7 +92173,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Akal Rai",
-    "RunCount": 72
+    "RunCount": 73
   },
   {
     "ID": 11609,
@@ -92245,7 +92245,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Kisan Rai",
-    "RunCount": 64
+    "RunCount": 65
   },
   {
     "ID": 11618,
@@ -92357,7 +92357,7 @@
     "Age": 39,
     "Sex": "F",
     "Parent": "Khadka Limbu",
-    "RunCount": 135
+    "RunCount": 136
   },
   {
     "ID": 11632,
@@ -93245,7 +93245,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "binod rai",
-    "RunCount": 80
+    "RunCount": 81
   },
   {
     "ID": 11743,
@@ -94517,7 +94517,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Dorje Tamang",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 11902,
@@ -95213,7 +95213,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Tej Prsd. Dahal",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 11989,
@@ -96349,7 +96349,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Kishan Rai",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 12131,
@@ -96901,7 +96901,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "Surya Rai",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 12200,
@@ -97557,7 +97557,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Ratna Bdr. Tamang",
-    "RunCount": 48
+    "RunCount": 49
   },
   {
     "ID": 12282,
@@ -98885,7 +98885,7 @@
     "Age": 24,
     "Sex": "M",
     "Parent": "Hari Bhakata Rai",
-    "RunCount": 46
+    "RunCount": 47
   },
   {
     "ID": 12449,
@@ -99405,7 +99405,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Dhan.B.Rai",
-    "RunCount": 56
+    "RunCount": 57
   },
   {
     "ID": 12514,
@@ -100437,7 +100437,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Gita Rai",
-    "RunCount": 36
+    "RunCount": 37
   },
   {
     "ID": 12645,
@@ -101533,7 +101533,7 @@
     "Age": 22,
     "Sex": "M",
     "Parent": "Situ Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 12782,
@@ -101589,7 +101589,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Bhanu Chongbang",
-    "RunCount": 75
+    "RunCount": 76
   },
   {
     "ID": 12789,
@@ -102557,7 +102557,7 @@
     "Age": 16,
     "Sex": "F",
     "Parent": "Chanddra Kumar Rai",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 12911,
@@ -102565,7 +102565,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Chandra Kumar Rai",
-    "RunCount": 27
+    "RunCount": 28
   },
   {
     "ID": 12912,
@@ -102573,7 +102573,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Pramod Chaudhary",
-    "RunCount": 106
+    "RunCount": 107
   },
   {
     "ID": 12913,
@@ -103509,7 +103509,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Mani Kumar Tamang",
-    "RunCount": 49
+    "RunCount": 50
   },
   {
     "ID": 13030,
@@ -104037,7 +104037,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Rawmu Rai",
-    "RunCount": 56
+    "RunCount": 57
   },
   {
     "ID": 13096,
@@ -104125,7 +104125,7 @@
     "Age": 50,
     "Sex": "M",
     "Parent": "Jaya Bhakta Rai",
-    "RunCount": 95
+    "RunCount": 96
   },
   {
     "ID": 13107,
@@ -105437,7 +105437,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Suresh Rai",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 13271,
@@ -105509,7 +105509,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Ashok B.K.",
-    "RunCount": 32
+    "RunCount": 33
   },
   {
     "ID": 13280,
@@ -105669,7 +105669,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Sabin pariyar",
-    "RunCount": 49
+    "RunCount": 50
   },
   {
     "ID": 13300,
@@ -105693,7 +105693,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Bal kumar limbu",
-    "RunCount": 72
+    "RunCount": 73
   },
   {
     "ID": 13303,
@@ -105765,7 +105765,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Lal Bahaur Tamang",
-    "RunCount": 85
+    "RunCount": 86
   },
   {
     "ID": 13312,
@@ -105932,7 +105932,7 @@
     "Fullname": "Bharat Pulami Magar",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parents NameNeetra Pulami Magar",
+    "Parent": "Neetra Pulami Magar",
     "RunCount": 3
   },
   {
@@ -105940,7 +105940,7 @@
     "Fullname": "Ajay Tamang",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parents NameGyan Bdr. Tamang",
+    "Parent": "Gyan Bdr. Tamang",
     "RunCount": 1
   },
   {
@@ -105948,7 +105948,7 @@
     "Fullname": "Komal Rana Magar",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parents NameYograj Rana Magar",
+    "Parent": "Yograj Rana Magar",
     "RunCount": 3
   },
   {
@@ -105956,7 +105956,7 @@
     "Fullname": "Ramesh Tamang",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parents NameMan Bdr. Tamang",
+    "Parent": "Man Bdr. Tamang",
     "RunCount": 2
   },
   {
@@ -105964,7 +105964,7 @@
     "Fullname": "Sangam Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NameSurya Rai",
+    "Parent": "Surya Rai",
     "RunCount": 1
   },
   {
@@ -105972,7 +105972,7 @@
     "Fullname": "Rajat Shrestha",
     "Age": 35,
     "Sex": "M",
-    "Parent": "Parents NameUttar Shrestha",
+    "Parent": "Uttar Shrestha",
     "RunCount": 1
   },
   {
@@ -105980,7 +105980,7 @@
     "Fullname": "Manoj Chemjong",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parents NameKrishna Chemjong",
+    "Parent": "Krishna Chemjong",
     "RunCount": 1
   },
   {
@@ -105988,7 +105988,7 @@
     "Fullname": "Norbu Tamang",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parents NameMekh Tamang",
+    "Parent": "Mekh Tamang",
     "RunCount": 2
   },
   {
@@ -105996,7 +105996,7 @@
     "Fullname": "Nishan Rai",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parents NameYograj Rai",
+    "Parent": "Yograj Rai",
     "RunCount": 1
   },
   {
@@ -106004,7 +106004,7 @@
     "Fullname": "Uday Bikram Rai",
     "Age": 20,
     "Sex": "M",
-    "Parent": "Parents NameSamadhoj Rai",
+    "Parent": "Samadhoj Rai",
     "RunCount": 1
   },
   {
@@ -106012,7 +106012,7 @@
     "Fullname": "Aayusha Rai",
     "Age": 15,
     "Sex": "F",
-    "Parent": "Parents NameMilan Rai",
+    "Parent": "Milan Rai",
     "RunCount": 17
   },
   {
@@ -106020,7 +106020,7 @@
     "Fullname": "Avash Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NameUmesh Rai",
+    "Parent": "Umesh Rai",
     "RunCount": 1
   },
   {
@@ -106028,7 +106028,7 @@
     "Fullname": "Samridhi Rai",
     "Age": 14,
     "Sex": "F",
-    "Parent": "Parents NameGanga Bahadur Rai",
+    "Parent": "Ganga Bahadur Rai",
     "RunCount": 1
   },
   {
@@ -106036,7 +106036,7 @@
     "Fullname": "Subeksha Rai",
     "Age": 10,
     "Sex": "F",
-    "Parent": "Parents NameGanga Bahadur Rai",
+    "Parent": "Ganga Bahadur Rai",
     "RunCount": 1
   },
   {
@@ -106044,7 +106044,7 @@
     "Fullname": "Pukar Bhujel",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parents NamePoonam Bhujel",
+    "Parent": "Poonam Bhujel",
     "RunCount": 2
   },
   {
@@ -106052,7 +106052,7 @@
     "Fullname": "Siken Rai",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameSubas Rai",
+    "Parent": "Subas Rai",
     "RunCount": 2
   },
   {
@@ -106060,7 +106060,7 @@
     "Fullname": "Nevan Rai",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NameChandra Khaling Rai",
+    "Parent": "Chandra Khaling Rai",
     "RunCount": 44
   },
   {
@@ -106068,7 +106068,7 @@
     "Fullname": "Prajwal Rai",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parents NameDagal Rai",
+    "Parent": "Dagal Rai",
     "RunCount": 7
   },
   {
@@ -106076,7 +106076,7 @@
     "Fullname": "Aayun Subba",
     "Age": 11,
     "Sex": "F",
-    "Parent": "Parents NameGopal Limbu",
+    "Parent": "Gopal Limbu",
     "RunCount": 8
   },
   {
@@ -106173,7 +106173,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Khagendra Rai",
-    "RunCount": 47
+    "RunCount": 48
   },
   {
     "ID": 13364,
@@ -106189,7 +106189,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Sujan Rai",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 13366,
@@ -106245,7 +106245,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Suman Gurung",
-    "RunCount": 48
+    "RunCount": 49
   },
   {
     "ID": 13373,
@@ -106261,7 +106261,7 @@
     "Age": 20,
     "Sex": "M",
     "Parent": "Ram Bdr. Ghale",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 13375,
@@ -106333,7 +106333,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Rabin Majhi",
-    "RunCount": 32
+    "RunCount": 33
   },
   {
     "ID": 13384,
@@ -106396,7 +106396,7 @@
     "Fullname": "Nishu Limbu",
     "Age": 22,
     "Sex": "F",
-    "Parent": "Parents Name Ganga Bdr. Limbu",
+    "Parent": "Ganga Bdr. Limbu",
     "RunCount": 2
   },
   {
@@ -106501,7 +106501,7 @@
     "Age": 60,
     "Sex": "M",
     "Parent": "Raj Jagat Pitangchhu",
-    "RunCount": 59
+    "RunCount": 60
   },
   {
     "ID": 13405,
@@ -106757,7 +106757,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Khiriraj Rai",
-    "RunCount": 52
+    "RunCount": 53
   },
   {
     "ID": 13437,
@@ -106917,7 +106917,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Bhim Limbu",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 13457,
@@ -107069,7 +107069,7 @@
     "Age": 19,
     "Sex": "F",
     "Parent": "Ganga Bahadur Gurung",
-    "RunCount": 8
+    "RunCount": 9
   },
   {
     "ID": 13476,
@@ -107341,7 +107341,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Pritha Limbu",
-    "RunCount": 39
+    "RunCount": 40
   },
   {
     "ID": 13510,
@@ -107556,7 +107556,7 @@
     "Fullname": "Alson Lingthep",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parents NameSuman Lingthep",
+    "Parent": "Suman Lingthep",
     "RunCount": 47
   },
   {
@@ -107564,7 +107564,7 @@
     "Fullname": "Merina  B.K.",
     "Age": 12,
     "Sex": "F",
-    "Parent": "Parents NameBhim B.K.",
+    "Parent": "Bhim B.K.",
     "RunCount": 6
   },
   {
@@ -107572,7 +107572,7 @@
     "Fullname": "Ashim Limbu",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Parents NameAmin Limbu",
+    "Parent": "Amin Limbu",
     "RunCount": 12
   },
   {
@@ -107580,7 +107580,7 @@
     "Fullname": "Anmol Subba",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parents NameGanesh Subba",
+    "Parent": "Ganesh Subba",
     "RunCount": 4
   },
   {
@@ -107588,7 +107588,7 @@
     "Fullname": "Alok Limbu",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NameArun Limbu",
+    "Parent": "Arun Limbu",
     "RunCount": 1
   },
   {
@@ -107596,7 +107596,7 @@
     "Fullname": "Palden Tamang",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parents NameAnil Tamang",
+    "Parent": "Anil Tamang",
     "RunCount": 2
   },
   {
@@ -107604,7 +107604,7 @@
     "Fullname": "Prayash Tamang",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parents NameSuman Tamang",
+    "Parent": "Suman Tamang",
     "RunCount": 2
   },
   {
@@ -107612,7 +107612,7 @@
     "Fullname": "Anan Chaudhary",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NameManoj Chudhary",
+    "Parent": "Manoj Chudhary",
     "RunCount": 1
   },
   {
@@ -107620,7 +107620,7 @@
     "Fullname": "Bishal Tamang",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parents NameSujan Tamang",
+    "Parent": "Sujan Tamang",
     "RunCount": 1
   },
   {
@@ -107628,7 +107628,7 @@
     "Fullname": "Ayush Tamang",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NamePhurba Tamang",
+    "Parent": "Phurba Tamang",
     "RunCount": 2
   },
   {
@@ -107636,7 +107636,7 @@
     "Fullname": "Kishan Limbu",
     "Age": 5,
     "Sex": "M",
-    "Parent": "Parents Namenand k  Limbu",
+    "Parent": "nand k  Limbu",
     "RunCount": 11
   },
   {
@@ -107644,7 +107644,7 @@
     "Fullname": "Sujan Rai",
     "Age": 17,
     "Sex": "M",
-    "Parent": "Parents NameMohan Rai",
+    "Parent": "Mohan Rai",
     "RunCount": 2
   },
   {
@@ -107652,7 +107652,7 @@
     "Fullname": "Kushal Kalikote",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameKumar Kalikote",
+    "Parent": "Kumar Kalikote",
     "RunCount": 1
   },
   {
@@ -107660,7 +107660,7 @@
     "Fullname": "Aasish Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NameTengi Rai",
+    "Parent": "Tengi Rai",
     "RunCount": 0
   },
   {
@@ -107668,7 +107668,7 @@
     "Fullname": "Sabin Tamang",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NamePralat Tamang",
+    "Parent": "Pralat Tamang",
     "RunCount": 1
   },
   {
@@ -107676,7 +107676,7 @@
     "Fullname": "Amrita Rai",
     "Age": 18,
     "Sex": "F",
-    "Parent": "Parents NamePukar Rai",
+    "Parent": "Pukar Rai",
     "RunCount": 1
   },
   {
@@ -107684,7 +107684,7 @@
     "Fullname": "Pryul Raj Karki",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NameRajan Karki",
+    "Parent": "Rajan Karki",
     "RunCount": 2
   },
   {
@@ -107692,7 +107692,7 @@
     "Fullname": "Anisha Rai",
     "Age": 18,
     "Sex": "F",
-    "Parent": "Parents NamePukar Rai",
+    "Parent": "Pukar Rai",
     "RunCount": 1
   },
   {
@@ -107700,7 +107700,7 @@
     "Fullname": "Samu Rai",
     "Age": 18,
     "Sex": "F",
-    "Parent": "Parents NameMohan Rai",
+    "Parent": "Mohan Rai",
     "RunCount": 1
   },
   {
@@ -107708,7 +107708,7 @@
     "Fullname": "Manoj Roka",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NameKishan Roka",
+    "Parent": "Kishan Roka",
     "RunCount": 1
   },
   {
@@ -107716,7 +107716,7 @@
     "Fullname": "Sijan Magar",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parents NameChandra Kumar Magar",
+    "Parent": "Chandra Kumar Magar",
     "RunCount": 1
   },
   {
@@ -107724,7 +107724,7 @@
     "Fullname": "Kushi Jeswal",
     "Age": 15,
     "Sex": "F",
-    "Parent": "Parents NameAjay Jeswal",
+    "Parent": "Ajay Jeswal",
     "RunCount": 3
   },
   {
@@ -107732,7 +107732,7 @@
     "Fullname": "Rihana Shrestha",
     "Age": 13,
     "Sex": "F",
-    "Parent": "Parents NameRamesh Shrestha",
+    "Parent": "Ramesh Shrestha",
     "RunCount": 2
   },
   {
@@ -107740,7 +107740,7 @@
     "Fullname": "Saayesa Limbu",
     "Age": 14,
     "Sex": "F",
-    "Parent": "Parents NameUttam  Limbu",
+    "Parent": "Uttam  Limbu",
     "RunCount": 1
   },
   {
@@ -107748,7 +107748,7 @@
     "Fullname": "Debendra Kelal",
     "Age": 42,
     "Sex": "M",
-    "Parent": "Parents Name",
+    "Parent": "",
     "RunCount": 0
   },
   {
@@ -107756,7 +107756,7 @@
     "Fullname": "Aakash Rai",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Parents NameKheriraj Rai",
+    "Parent": "Kheriraj Rai",
     "RunCount": 54
   },
   {
@@ -107764,7 +107764,7 @@
     "Fullname": "Prakash Limbu",
     "Age": 20,
     "Sex": "M",
-    "Parent": "Parents NameBal Bdr. Rai",
+    "Parent": "Bal Bdr. Rai",
     "RunCount": 7
   },
   {
@@ -107772,7 +107772,7 @@
     "Fullname": "Dipak Dahal",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parents NameTeknath Dahal",
+    "Parent": "Teknath Dahal",
     "RunCount": 3
   },
   {
@@ -107780,7 +107780,7 @@
     "Fullname": "Rojan Rai",
     "Age": 9,
     "Sex": "M",
-    "Parent": "Parents NameDili Rai",
+    "Parent": "Dili Rai",
     "RunCount": 1
   },
   {
@@ -107788,7 +107788,7 @@
     "Fullname": "Ishan Shrestha",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parents NameIshor Shrestha",
+    "Parent": "Ishor Shrestha",
     "RunCount": 4
   },
   {
@@ -107796,7 +107796,7 @@
     "Fullname": "Aaroshna Limbu",
     "Age": 12,
     "Sex": "F",
-    "Parent": "Parents NameBijay Limbu",
+    "Parent": "Bijay Limbu",
     "RunCount": 4
   },
   {
@@ -107804,7 +107804,7 @@
     "Fullname": "Alisha Shrestha",
     "Age": 12,
     "Sex": "F",
-    "Parent": "Parents NameBishal shestha",
+    "Parent": "Bishal shestha",
     "RunCount": 2
   },
   {
@@ -107812,7 +107812,7 @@
     "Fullname": "Rashi Limbu",
     "Age": 13,
     "Sex": "F",
-    "Parent": "Parents NameRaj Limbu",
+    "Parent": "Raj Limbu",
     "RunCount": 1
   },
   {
@@ -107820,7 +107820,7 @@
     "Fullname": "Sona Khan",
     "Age": 14,
     "Sex": "F",
-    "Parent": "Parents NameJuhed Khan",
+    "Parent": "Juhed Khan",
     "RunCount": 2
   },
   {
@@ -107828,7 +107828,7 @@
     "Fullname": "Prinshika Darnal",
     "Age": 14,
     "Sex": "F",
-    "Parent": "Parents NameTekendra Darnal",
+    "Parent": "Tekendra Darnal",
     "RunCount": 2
   },
   {
@@ -107836,7 +107836,7 @@
     "Fullname": "Ishan Limbu",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Parents NameRewan Limbu",
+    "Parent": "Rewan Limbu",
     "RunCount": 2
   },
   {
@@ -107844,7 +107844,7 @@
     "Fullname": "Prajwal Giri",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Parents NameGovinda Giri",
+    "Parent": "Govinda Giri",
     "RunCount": 4
   },
   {
@@ -107852,7 +107852,7 @@
     "Fullname": "Durge Limbu",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameLal Kumar  Limbu",
+    "Parent": "Lal Kumar  Limbu",
     "RunCount": 1
   },
   {
@@ -107860,7 +107860,7 @@
     "Fullname": "Sahil Limbu",
     "Age": 17,
     "Sex": "M",
-    "Parent": "Parents NameGovinda prasad Limbu",
+    "Parent": "Govinda prasad Limbu",
     "RunCount": 1
   },
   {
@@ -107868,7 +107868,7 @@
     "Fullname": "Sanjok Rai",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameKamal Kumar Rai",
+    "Parent": "Kamal Kumar Rai",
     "RunCount": 7
   },
   {
@@ -107876,7 +107876,7 @@
     "Fullname": "Bibek Rai",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parents NameNarsen Rai",
+    "Parent": "Narsen Rai",
     "RunCount": 4
   },
   {
@@ -107884,7 +107884,7 @@
     "Fullname": "Aayush Katwal",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameBijay Katwal",
+    "Parent": "Bijay Katwal",
     "RunCount": 8
   },
   {
@@ -107892,7 +107892,7 @@
     "Fullname": "Donish Rai",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Parents NameJiban Rai",
+    "Parent": "Jiban Rai",
     "RunCount": 0
   },
   {
@@ -107900,7 +107900,7 @@
     "Fullname": "Japan Rai",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parents NameManbir Rai",
+    "Parent": "Manbir Rai",
     "RunCount": 2
   },
   {
@@ -107908,7 +107908,7 @@
     "Fullname": "Simran Dewan",
     "Age": 15,
     "Sex": "F",
-    "Parent": "Parents NameKumar Dewan",
+    "Parent": "Kumar Dewan",
     "RunCount": 1
   },
   {
@@ -107916,7 +107916,7 @@
     "Fullname": "Nora Magar",
     "Age": 8,
     "Sex": "F",
-    "Parent": "Parents NameBhagat Magar",
+    "Parent": "Bhagat Magar",
     "RunCount": 28
   },
   {
@@ -107924,7 +107924,7 @@
     "Fullname": "Maikala Gurung",
     "Age": 16,
     "Sex": "F",
-    "Parent": "Parents NameTek Bahadur Gurung",
+    "Parent": "Tek Bahadur Gurung",
     "RunCount": 3
   },
   {
@@ -107932,7 +107932,7 @@
     "Fullname": "Milan Magar",
     "Age": 20,
     "Sex": "M",
-    "Parent": "Parents NamePadam Singh Magar",
+    "Parent": "Padam Singh Magar",
     "RunCount": 34
   },
   {
@@ -107940,7 +107940,7 @@
     "Fullname": "Dorge Tamang",
     "Age": 42,
     "Sex": "M",
-    "Parent": "Parents Name",
+    "Parent": "",
     "RunCount": 2
   },
   {
@@ -107948,7 +107948,7 @@
     "Fullname": "Ankit Maskey",
     "Age": 30,
     "Sex": "M",
-    "Parent": "Parents NameBimal Maskey",
+    "Parent": "Bimal Maskey",
     "RunCount": 1
   },
   {
@@ -107964,7 +107964,7 @@
     "Fullname": "Paribesh Thakuri",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parents NameMahendra Thakuri",
+    "Parent": "Mahendra Thakuri",
     "RunCount": 5
   },
   {
@@ -107972,15 +107972,15 @@
     "Fullname": "Daniel Gurung",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parents NamePurna Bdr. Gurung",
-    "RunCount": 2
+    "Parent": "Purna Bdr. Gurung",
+    "RunCount": 3
   },
   {
     "ID": 13589,
     "Fullname": "Somiya Rai",
     "Age": 11,
     "Sex": "F",
-    "Parent": "Parents NameSuraj Rai",
+    "Parent": "Suraj Rai",
     "RunCount": 0
   },
   {
@@ -107988,7 +107988,7 @@
     "Fullname": "Binod Limbu",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameDilip Limbu",
+    "Parent": "Dilip Limbu",
     "RunCount": 1
   },
   {
@@ -107996,7 +107996,7 @@
     "Fullname": "Bikram Gurung",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parents NameKhem Kr. Gurung",
+    "Parent": "Khem Kr. Gurung",
     "RunCount": 0
   },
   {
@@ -108261,7 +108261,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Sajin Rai",
-    "RunCount": 55
+    "RunCount": 56
   },
   {
     "ID": 13625,
@@ -108285,7 +108285,7 @@
     "Age": 15,
     "Sex": "F",
     "Parent": "Rajan Magar",
-    "RunCount": 62
+    "RunCount": 63
   },
   {
     "ID": 13628,
@@ -108325,7 +108325,7 @@
     "Age": 20,
     "Sex": "M",
     "Parent": "Bipan Limbu",
-    "RunCount": 34
+    "RunCount": 35
   },
   {
     "ID": 13633,
@@ -108460,7 +108460,7 @@
     "Fullname": "Saurabh Rai",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parent's Name Basanta Rai",
+    "Parent": "Basanta Rai",
     "RunCount": 2
   },
   {
@@ -108468,7 +108468,7 @@
     "Fullname": "Mahendra Limbu",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parent's Name Kumar Limbu",
+    "Parent": "Kumar Limbu",
     "RunCount": 2
   },
   {
@@ -108476,7 +108476,7 @@
     "Fullname": "Sabin Limbu",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parent's Name Roshan Limbu",
+    "Parent": "Roshan Limbu",
     "RunCount": 1
   },
   {
@@ -108484,15 +108484,15 @@
     "Fullname": "Mimik Ale",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent's Name Om Prakash Ale",
-    "RunCount": 33
+    "Parent": "Om Prakash Ale",
+    "RunCount": 34
   },
   {
     "ID": 13653,
     "Fullname": "Aaron Budhathoki",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Parent's Name Ramesh Budhathoki",
+    "Parent": "Ramesh Budhathoki",
     "RunCount": 0
   },
   {
@@ -108500,7 +108500,7 @@
     "Fullname": "Yahang Limbu",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent's Name Nandu Limbu",
+    "Parent": "Nandu Limbu",
     "RunCount": 1
   },
   {
@@ -108508,7 +108508,7 @@
     "Fullname": "Semik Limbu",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parent's Name Rajendra Limbu",
+    "Parent": "Rajendra Limbu",
     "RunCount": 3
   },
   {
@@ -108516,7 +108516,7 @@
     "Fullname": "Bhupu Rai",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parent's Name Raj Kumar Rai",
+    "Parent": "Raj Kumar Rai",
     "RunCount": 1
   },
   {
@@ -108524,7 +108524,7 @@
     "Fullname": "Roshan Magar",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parent's Name Yam Bdr. Magar",
+    "Parent": "Yam Bdr. Magar",
     "RunCount": 1
   },
   {
@@ -108532,7 +108532,7 @@
     "Fullname": "Adip Limbu",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parent's Name Sal Bdr.Limbu",
+    "Parent": "Sal Bdr.Limbu",
     "RunCount": 1
   },
   {
@@ -108540,7 +108540,7 @@
     "Fullname": "Ankita Pariyar",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parent's Name Jnyoti Pariyar",
+    "Parent": "Jnyoti Pariyar",
     "RunCount": 0
   },
   {
@@ -108548,7 +108548,7 @@
     "Fullname": "Samikshya Rai",
     "Age": 12,
     "Sex": "F",
-    "Parent": "Parent's Name Dhurba Bdr.Tamang",
+    "Parent": "Dhurba Bdr.Tamang",
     "RunCount": 3
   },
   {
@@ -108556,7 +108556,7 @@
     "Fullname": "Pujan B.K.",
     "Age": 13,
     "Sex": "F",
-    "Parent": "Parent's Name Bharat B.K.",
+    "Parent": "Bharat B.K.",
     "RunCount": 2
   },
   {
@@ -108564,7 +108564,7 @@
     "Fullname": "Aasish Tamang",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parent's Name Rudra Bdr. Tamang",
+    "Parent": "Rudra Bdr. Tamang",
     "RunCount": 2
   },
   {
@@ -108572,7 +108572,7 @@
     "Fullname": "Sungava Rai",
     "Age": 11,
     "Sex": "F",
-    "Parent": "Parent's Name Mittra Rai",
+    "Parent": "Mittra Rai",
     "RunCount": 5
   },
   {
@@ -108580,7 +108580,7 @@
     "Fullname": "Namshang Limbu",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Parent's Name Buddhiraj Limbu",
+    "Parent": "Buddhiraj Limbu",
     "RunCount": 11
   },
   {
@@ -108588,15 +108588,15 @@
     "Fullname": "Kiran Neupane",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parent's Name Siva Neupane",
-    "RunCount": 19
+    "Parent": "Siva Neupane",
+    "RunCount": 20
   },
   {
     "ID": 13666,
     "Fullname": "Sabina Rai",
     "Age": 20,
     "Sex": "F",
-    "Parent": "Parent's Name Shree Prasad Rai",
+    "Parent": "Shree Prasad Rai",
     "RunCount": 2
   },
   {
@@ -108604,7 +108604,7 @@
     "Fullname": "Kalpana Rai",
     "Age": 34,
     "Sex": "F",
-    "Parent": "Parent's Name Gam Bdr. Rai",
+    "Parent": "Gam Bdr. Rai",
     "RunCount": 4
   },
   {
@@ -108612,7 +108612,7 @@
     "Fullname": "Kusang Kedem",
     "Age": 8,
     "Sex": "M",
-    "Parent": "Parent's Name Purna Kedem",
+    "Parent": "Purna Kedem",
     "RunCount": 8
   },
   {
@@ -108620,7 +108620,7 @@
     "Fullname": "Sandeep Yonjan",
     "Age": 11,
     "Sex": "M",
-    "Parent": "Parent's Name Lal Bdr. Yonjan",
+    "Parent": "Lal Bdr. Yonjan",
     "RunCount": 3
   },
   {
@@ -108628,7 +108628,7 @@
     "Fullname": "Mirun Bhujel",
     "Age": 8,
     "Sex": "M",
-    "Parent": "Parent's Name Kedar Bhujel",
+    "Parent": "Kedar Bhujel",
     "RunCount": 41
   },
   {
@@ -108725,7 +108725,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Kiran Magar",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 13683,
@@ -108845,7 +108845,7 @@
     "Age": 58,
     "Sex": "M",
     "Parent": "Padam Thapa Magar",
-    "RunCount": 71
+    "RunCount": 72
   },
   {
     "ID": 13698,
@@ -108885,7 +108885,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Karamajit Tamang",
-    "RunCount": 31
+    "RunCount": 32
   },
   {
     "ID": 13703,
@@ -108893,7 +108893,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Parshu Tamang",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 13704,
@@ -109245,7 +109245,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Koaman Lawati",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 13748,
@@ -109253,7 +109253,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Dinesh Tamang",
-    "RunCount": 62
+    "RunCount": 63
   },
   {
     "ID": 13749,
@@ -109324,7 +109324,7 @@
     "Fullname": "Yuncho Limbu",
     "Age": 13,
     "Sex": "F",
-    "Parent": "Parents NameKamal Limbu",
+    "Parent": "Kamal Limbu",
     "RunCount": 62
   },
   {
@@ -109341,7 +109341,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Khadga Limbu",
-    "RunCount": 47
+    "RunCount": 48
   },
   {
     "ID": 13760,
@@ -109404,7 +109404,7 @@
     "Fullname": "Sushma Limbu",
     "Age": 20,
     "Sex": "F",
-    "Parent": "Parenst NameGauri Limbu",
+    "Parent": "Gauri Limbu",
     "RunCount": 1
   },
   {
@@ -109412,15 +109412,15 @@
     "Fullname": "Samit  Rai",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parenst NameSuman Rai",
-    "RunCount": 51
+    "Parent": "Suman Rai",
+    "RunCount": 52
   },
   {
     "ID": 13769,
     "Fullname": "Anup Rai",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parenst NameBhagyaman Rai",
+    "Parent": "Bhagyaman Rai",
     "RunCount": 9
   },
   {
@@ -109428,7 +109428,7 @@
     "Fullname": "Rejan Shrestha",
     "Age": 9,
     "Sex": "M",
-    "Parent": "Parenst NameBasnata Shrestha",
+    "Parent": "Basnata Shrestha",
     "RunCount": 10
   },
   {
@@ -109436,7 +109436,7 @@
     "Fullname": "AayuSh Khewa",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parenst NameBal Bdr. Khewa",
+    "Parent": "Bal Bdr. Khewa",
     "RunCount": 1
   },
   {
@@ -109444,7 +109444,7 @@
     "Fullname": "Sital Khewa",
     "Age": 16,
     "Sex": "M",
-    "Parent": "Parenst NameIndra Khewa",
+    "Parent": "Indra Khewa",
     "RunCount": 1
   },
   {
@@ -109452,7 +109452,7 @@
     "Fullname": "Bibash Khewa",
     "Age": 19,
     "Sex": "M",
-    "Parent": "Parenst NameTulasi Khewa",
+    "Parent": "Tulasi Khewa",
     "RunCount": 0
   },
   {
@@ -109460,7 +109460,7 @@
     "Fullname": "Amash Thapa Magar",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parenst NameSom Bdr.Thapa Magar",
+    "Parent": "Som Bdr.Thapa Magar",
     "RunCount": 2
   },
   {
@@ -109468,7 +109468,7 @@
     "Fullname": "Yoran Limbu",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parenst NameLok Limbu",
+    "Parent": "Lok Limbu",
     "RunCount": 9
   },
   {
@@ -109476,8 +109476,8 @@
     "Fullname": "Arpana Rai",
     "Age": 13,
     "Sex": "F",
-    "Parent": "Parents NameKhadgamani Rai",
-    "RunCount": 61
+    "Parent": "Khadgamani Rai",
+    "RunCount": 62
   },
   {
     "ID": 13777,
@@ -109533,7 +109533,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Dhan Krishna Rai",
-    "RunCount": 40
+    "RunCount": 41
   },
   {
     "ID": 13784,
@@ -109693,7 +109693,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Basudev Limbu",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 13804,
@@ -109813,7 +109813,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Badri Tamang",
-    "RunCount": 64
+    "RunCount": 65
   },
   {
     "ID": 13819,
@@ -109869,7 +109869,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Sunil Aacharya",
-    "RunCount": 63
+    "RunCount": 64
   },
   {
     "ID": 13826,
@@ -109877,7 +109877,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Khadka Mani Rai",
-    "RunCount": 53
+    "RunCount": 54
   },
   {
     "ID": 13827,
@@ -110021,7 +110021,7 @@
     "Age": 19,
     "Sex": "F",
     "Parent": "Prem Limbu",
-    "RunCount": 17
+    "RunCount": 18
   },
   {
     "ID": 13845,
@@ -110053,7 +110053,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Khadarmani Rai",
-    "RunCount": 50
+    "RunCount": 51
   },
   {
     "ID": 13849,
@@ -110085,7 +110085,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Narayan Limbu",
-    "RunCount": 42
+    "RunCount": 43
   },
   {
     "ID": 13853,
@@ -110093,7 +110093,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Subash Rai",
-    "RunCount": 51
+    "RunCount": 52
   },
   {
     "ID": 13854,
@@ -110149,7 +110149,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Surendra Limbu",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 13861,
@@ -110365,7 +110365,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Krishna Basnet",
-    "RunCount": 45
+    "RunCount": 46
   },
   {
     "ID": 13888,
@@ -110637,7 +110637,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Prakash Bhujel",
-    "RunCount": 19
+    "RunCount": 20
   },
   {
     "ID": 13922,
@@ -110733,7 +110733,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Munna Yogi",
-    "RunCount": 54
+    "RunCount": 55
   },
   {
     "ID": 13934,
@@ -110741,7 +110741,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Amrit Rai",
-    "RunCount": 50
+    "RunCount": 51
   },
   {
     "ID": 13935,
@@ -110845,7 +110845,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Imansingh Tamang",
-    "RunCount": 56
+    "RunCount": 57
   },
   {
     "ID": 13948,
@@ -110909,7 +110909,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Purna Bdr. Gajmer",
-    "RunCount": 18
+    "RunCount": 19
   },
   {
     "ID": 13956,
@@ -110949,7 +110949,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Dhan Prasad Limbu",
-    "RunCount": 56
+    "RunCount": 57
   },
   {
     "ID": 13961,
@@ -111005,7 +111005,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Binod Timilsina",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 13968,
@@ -111045,7 +111045,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Purna Kr. Limbu",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 13973,
@@ -111253,7 +111253,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Ishor Shreatha",
-    "RunCount": 8
+    "RunCount": 9
   },
   {
     "ID": 13999,
@@ -111308,7 +111308,7 @@
     "Fullname": "Bibek Rai",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parent'as NameSuajn Rai",
+    "Parent": "Suajn Rai",
     "RunCount": 1
   },
   {
@@ -111316,7 +111316,7 @@
     "Fullname": "Yuksang Limbu",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parent'as NameDhan Limbu",
+    "Parent": "Dhan Limbu",
     "RunCount": 2
   },
   {
@@ -111324,15 +111324,15 @@
     "Fullname": "Peter Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parent'as NameRajendra Rai",
-    "RunCount": 39
+    "Parent": "Rajendra Rai",
+    "RunCount": 40
   },
   {
     "ID": 14008,
     "Fullname": "Aanan Rai",
     "Age": 15,
     "Sex": "M",
-    "Parent": "Parent'as NamePadam Singh Rai",
+    "Parent": "Padam Singh Rai",
     "RunCount": 4
   },
   {
@@ -111340,7 +111340,7 @@
     "Fullname": "Nusang Tamang",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent'as NameSigman Tamang",
+    "Parent": "Sigman Tamang",
     "RunCount": 26
   },
   {
@@ -111348,7 +111348,7 @@
     "Fullname": "Anuj Baraili",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent'as NameBhim Bdr. Baraili",
+    "Parent": "Bhim Bdr. Baraili",
     "RunCount": 5
   },
   {
@@ -111356,7 +111356,7 @@
     "Fullname": "Ramesh Rai",
     "Age": 50,
     "Sex": "M",
-    "Parent": "Parent'as NamePurna Lal Rai",
+    "Parent": "Purna Lal Rai",
     "RunCount": 1
   },
   {
@@ -111364,7 +111364,7 @@
     "Fullname": "Bal Kumar Lakandri",
     "Age": 47,
     "Sex": "M",
-    "Parent": "Parent'as NamePramalal Lakandri",
+    "Parent": "Pramalal Lakandri",
     "RunCount": 2
   },
   {
@@ -111372,7 +111372,7 @@
     "Fullname": "Daniel Rai",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parent'as NameRanjit Rai",
+    "Parent": "Ranjit Rai",
     "RunCount": 1
   },
   {
@@ -111380,7 +111380,7 @@
     "Fullname": "Romi Rai",
     "Age": 14,
     "Sex": "F",
-    "Parent": "Parent'as NameSantosh Rai",
+    "Parent": "Santosh Rai",
     "RunCount": 1
   },
   {
@@ -111388,7 +111388,7 @@
     "Fullname": "Prerana Tuladhar",
     "Age": 38,
     "Sex": "F",
-    "Parent": "Parent'as NameBechu Chaudhary",
+    "Parent": "Bechu Chaudhary",
     "RunCount": 1
   },
   {
@@ -111396,7 +111396,7 @@
     "Fullname": "Sisera Thulung",
     "Age": 54,
     "Sex": "F",
-    "Parent": "Parent'as NameMan Bdr. Thulung",
+    "Parent": "Man Bdr. Thulung",
     "RunCount": 0
   },
   {
@@ -111404,7 +111404,7 @@
     "Fullname": "Sesehang Limbu",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent'as NameRajib Limbu",
+    "Parent": "Rajib Limbu",
     "RunCount": 9
   },
   {
@@ -111412,7 +111412,7 @@
     "Fullname": "Keshar Rai",
     "Age": 53,
     "Sex": "M",
-    "Parent": "Parent'as NameBhim Raj Rai",
+    "Parent": "Bhim Raj Rai",
     "RunCount": 2
   },
   {
@@ -111420,7 +111420,7 @@
     "Fullname": "Pushpa Rai",
     "Age": 39,
     "Sex": "F",
-    "Parent": "Parent'as NameMani Raj Rai",
+    "Parent": "Mani Raj Rai",
     "RunCount": 1
   },
   {
@@ -111428,7 +111428,7 @@
     "Fullname": "Mina Limbu",
     "Age": 47,
     "Sex": "F",
-    "Parent": "Parent'as NameBhim Bdr. Limbu",
+    "Parent": "Bhim Bdr. Limbu",
     "RunCount": 1
   },
   {
@@ -111436,7 +111436,7 @@
     "Fullname": "Eunice Rai",
     "Age": 47,
     "Sex": "M",
-    "Parent": "Parent'as NameKaila Singh Tamang",
+    "Parent": "Kaila Singh Tamang",
     "RunCount": 1
   },
   {
@@ -111444,7 +111444,7 @@
     "Fullname": "Mahima Tamang",
     "Age": 9,
     "Sex": "F",
-    "Parent": "Parent'as NameManoj Tamang",
+    "Parent": "Manoj Tamang",
     "RunCount": 1
   },
   {
@@ -111452,7 +111452,7 @@
     "Fullname": "Dhirendra Chaudhary",
     "Age": 59,
     "Sex": "M",
-    "Parent": "Parent'as NameRam Sharm Chaudhary",
+    "Parent": "Ram Sharm Chaudhary",
     "RunCount": 1
   },
   {
@@ -111460,7 +111460,7 @@
     "Fullname": "Subin Limbu",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent'as NameSudip Limbu",
+    "Parent": "Sudip Limbu",
     "RunCount": 5
   },
   {
@@ -111468,7 +111468,7 @@
     "Fullname": "Sambhav Dranal",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parent'as NameDinesh Darnal",
+    "Parent": "Dinesh Darnal",
     "RunCount": 1
   },
   {
@@ -111476,7 +111476,7 @@
     "Fullname": "Shova Darnal",
     "Age": 42,
     "Sex": "F",
-    "Parent": "Parent'as NameMitra Darnal",
+    "Parent": "Mitra Darnal",
     "RunCount": 1
   },
   {
@@ -111484,7 +111484,7 @@
     "Fullname": "Dinesh Darnal",
     "Age": 44,
     "Sex": "M",
-    "Parent": "Parent'as NameRamesh Darnal",
+    "Parent": "Ramesh Darnal",
     "RunCount": 1
   },
   {
@@ -111492,7 +111492,7 @@
     "Fullname": "Karna Bdr. Rai",
     "Age": 55,
     "Sex": "M",
-    "Parent": "Parent'as NameMan Rai",
+    "Parent": "Man Rai",
     "RunCount": 1
   },
   {
@@ -111500,7 +111500,7 @@
     "Fullname": "Nayan Kumar Rai",
     "Age": 34,
     "Sex": "M",
-    "Parent": "Parent'as NameDal Bdr. Rai",
+    "Parent": "Dal Bdr. Rai",
     "RunCount": 0
   },
   {
@@ -111508,7 +111508,7 @@
     "Fullname": "Mahendra Jung Rai",
     "Age": 51,
     "Sex": "M",
-    "Parent": "Parent'as NameKam Bdr. Rai",
+    "Parent": "Kam Bdr. Rai",
     "RunCount": 2
   },
   {
@@ -111516,7 +111516,7 @@
     "Fullname": "Shiva Kumar Saud",
     "Age": 36,
     "Sex": "M",
-    "Parent": "Parent'as NameSarjan Singh Saud",
+    "Parent": "Sarjan Singh Saud",
     "RunCount": 1
   },
   {
@@ -111524,7 +111524,7 @@
     "Fullname": "Alam Sheikh",
     "Age": 24,
     "Sex": "M",
-    "Parent": "Parent'as NameAslam Sheikh",
+    "Parent": "Aslam Sheikh",
     "RunCount": 1
   },
   {
@@ -111532,7 +111532,7 @@
     "Fullname": "Abhisekh Tamang",
     "Age": 22,
     "Sex": "M",
-    "Parent": "Parent'as NameSurya Bdr. Tamang",
+    "Parent": "Surya Bdr. Tamang",
     "RunCount": 2
   },
   {
@@ -111540,7 +111540,7 @@
     "Fullname": "Neha Khatun",
     "Age": 11,
     "Sex": "F",
-    "Parent": "Parent'as NameJubei Khatun",
+    "Parent": "Jubei Khatun",
     "RunCount": 1
   },
   {
@@ -111548,7 +111548,7 @@
     "Fullname": "Sajan Yakkha",
     "Age": 24,
     "Sex": "M",
-    "Parent": "Parent'as NameKabiraj Yakkha",
+    "Parent": "Kabiraj Yakkha",
     "RunCount": 1
   },
   {
@@ -111556,7 +111556,7 @@
     "Fullname": "Riyan Karki",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parent'as NameRabin Karki",
+    "Parent": "Rabin Karki",
     "RunCount": 12
   },
   {
@@ -111564,15 +111564,15 @@
     "Fullname": "Suyog Aacharya",
     "Age": 6,
     "Sex": "M",
-    "Parent": "Parent'as NameSunil Aacharya",
-    "RunCount": 40
+    "Parent": "Sunil Aacharya",
+    "RunCount": 41
   },
   {
     "ID": 14038,
     "Fullname": "Sidhand Yonzon",
     "Age": 37,
     "Sex": "M",
-    "Parent": "Parent'as NameShisir Yonzon",
+    "Parent": "Shisir Yonzon",
     "RunCount": 1
   },
   {
@@ -111580,7 +111580,7 @@
     "Fullname": "Daniel ChamlingnRai",
     "Age": 37,
     "Sex": "M",
-    "Parent": "Parent'as NamePurna Bdr. Rai",
+    "Parent": "Purna Bdr. Rai",
     "RunCount": 0
   },
   {
@@ -111588,7 +111588,7 @@
     "Fullname": "Suman Tamang",
     "Age": 20,
     "Sex": "M",
-    "Parent": "Parent'as NameMingma Tamang",
+    "Parent": "Mingma Tamang",
     "RunCount": 2
   },
   {
@@ -111596,7 +111596,7 @@
     "Fullname": "Arjun Bhujel",
     "Age": 21,
     "Sex": "M",
-    "Parent": "Parent'as NameHari Bdr. Bhujel",
+    "Parent": "Hari Bdr. Bhujel",
     "RunCount": 1
   },
   {
@@ -111604,7 +111604,7 @@
     "Fullname": "Saroj Tamang",
     "Age": 27,
     "Sex": "M",
-    "Parent": "Parent'as NameLok Bdr. Tamang",
+    "Parent": "Lok Bdr. Tamang",
     "RunCount": 1
   },
   {
@@ -111612,7 +111612,7 @@
     "Fullname": "Dipak B.K.",
     "Age": 17,
     "Sex": "M",
-    "Parent": "Parent'as NameRajeeb B.K.",
+    "Parent": "Rajeeb B.K.",
     "RunCount": 0
   },
   {
@@ -111620,7 +111620,7 @@
     "Fullname": "Bhim Siwal",
     "Age": 56,
     "Sex": "M",
-    "Parent": "Parent'as NamePahal Man Siwal",
+    "Parent": "Pahal Man Siwal",
     "RunCount": 1
   },
   {
@@ -111628,7 +111628,7 @@
     "Fullname": "RB Ghising",
     "Age": 53,
     "Sex": "M",
-    "Parent": "Parent'as NameMangal Dhoj Ghising",
+    "Parent": "Mangal Dhoj Ghising",
     "RunCount": 0
   },
   {
@@ -111636,7 +111636,7 @@
     "Fullname": "Govinda Rai",
     "Age": 44,
     "Sex": "M",
-    "Parent": "Parent'as Name",
+    "Parent": "",
     "RunCount": 0
   },
   {
@@ -111765,7 +111765,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Arjun B.K.",
-    "RunCount": 43
+    "RunCount": 44
   },
   {
     "ID": 14063,
@@ -111773,7 +111773,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Dipak B.K.",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14064,
@@ -111805,7 +111805,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Pradip Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14068,
@@ -111829,7 +111829,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Dipak Rai",
-    "RunCount": 23
+    "RunCount": 24
   },
   {
     "ID": 14071,
@@ -111845,7 +111845,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Arjun Khadka",
-    "RunCount": 16
+    "RunCount": 17
   },
   {
     "ID": 14073,
@@ -111925,7 +111925,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Dharmendra Rai",
-    "RunCount": 27
+    "RunCount": 28
   },
   {
     "ID": 14083,
@@ -111989,7 +111989,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Yograj Timalsina",
-    "RunCount": 41
+    "RunCount": 42
   },
   {
     "ID": 14091,
@@ -112037,7 +112037,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Sudip Tamang",
-    "RunCount": 46
+    "RunCount": 47
   },
   {
     "ID": 14097,
@@ -112069,7 +112069,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Manish Das Rai",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14101,
@@ -112188,7 +112188,7 @@
     "Fullname": "Ashis Rai",
     "Age": 8,
     "Sex": "M",
-    "Parent": "Parent'sKaji Man Rai",
+    "Parent": "Kaji Man Rai",
     "RunCount": 2
   },
   {
@@ -112196,7 +112196,7 @@
     "Fullname": "Hanak Rai",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parent'sAnil Rai",
+    "Parent": "Anil Rai",
     "RunCount": 2
   },
   {
@@ -112204,7 +112204,7 @@
     "Fullname": "Seemon Limbu",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parent'sFifraj Limbu",
+    "Parent": "Fifraj Limbu",
     "RunCount": 15
   },
   {
@@ -112333,7 +112333,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Sovit Limbu",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14134,
@@ -112421,7 +112421,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Indra Dhoj Rai",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14145,
@@ -112429,7 +112429,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Pinku Pradhan",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14146,
@@ -112453,7 +112453,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Pinku Pradhan",
-    "RunCount": 22
+    "RunCount": 23
   },
   {
     "ID": 14149,
@@ -112477,7 +112477,7 @@
     "Age": 7,
     "Sex": "F",
     "Parent": "Nagendra Rai",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14152,
@@ -112485,7 +112485,7 @@
     "Age": 7,
     "Sex": "F",
     "Parent": "Sanita Rai",
-    "RunCount": 28
+    "RunCount": 29
   },
   {
     "ID": 14153,
@@ -112589,7 +112589,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Jiwan Karki",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 14166,
@@ -112645,7 +112645,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Sita Ram Shah",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14173,
@@ -112685,7 +112685,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Shibu Rai",
-    "RunCount": 16
+    "RunCount": 17
   },
   {
     "ID": 14178,
@@ -112837,7 +112837,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Suman Rai",
-    "RunCount": 18
+    "RunCount": 19
   },
   {
     "ID": 14197,
@@ -112845,7 +112845,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Biren Tamang",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14198,
@@ -112861,7 +112861,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Ramesh Tamang",
-    "RunCount": 34
+    "RunCount": 35
   },
   {
     "ID": 14200,
@@ -112949,7 +112949,7 @@
     "Age": 42,
     "Sex": "F",
     "Parent": "Narayan Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14211,
@@ -112957,7 +112957,7 @@
     "Age": 39,
     "Sex": "M",
     "Parent": "Tek Sing Limbu",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14212,
@@ -113069,7 +113069,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Raj Kumar Bhujel",
-    "RunCount": 42
+    "RunCount": 43
   },
   {
     "ID": 14226,
@@ -113077,7 +113077,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Nima Tamang",
-    "RunCount": 39
+    "RunCount": 40
   },
   {
     "ID": 14227,
@@ -113101,7 +113101,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Bikash Baraili",
-    "RunCount": 29
+    "RunCount": 30
   },
   {
     "ID": 14230,
@@ -113125,7 +113125,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Ram Limbu",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 14233,
@@ -113133,7 +113133,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Gajendra Rai",
-    "RunCount": 44
+    "RunCount": 45
   },
   {
     "ID": 14234,
@@ -113213,7 +113213,7 @@
     "Age": 40,
     "Sex": "M",
     "Parent": "Ganesh Rai",
-    "RunCount": 39
+    "RunCount": 40
   },
   {
     "ID": 14244,
@@ -113269,7 +113269,7 @@
     "Age": 49,
     "Sex": "M",
     "Parent": "Hikmat Limbu",
-    "RunCount": 46
+    "RunCount": 47
   },
   {
     "ID": 14251,
@@ -113277,7 +113277,7 @@
     "Age": 6,
     "Sex": "M",
     "Parent": "Roman Limbu",
-    "RunCount": 45
+    "RunCount": 46
   },
   {
     "ID": 14252,
@@ -113301,7 +113301,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Govinda Khadka",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 14255,
@@ -113309,7 +113309,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Santi Limbu",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 14256,
@@ -113501,7 +113501,7 @@
     "Age": 45,
     "Sex": "M",
     "Parent": "Karna Bahadur Khadka",
-    "RunCount": 17
+    "RunCount": 18
   },
   {
     "ID": 14280,
@@ -113517,7 +113517,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Bijay Rai",
-    "RunCount": 10
+    "RunCount": 11
   },
   {
     "ID": 14282,
@@ -113565,7 +113565,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Khemraj Katwal",
-    "RunCount": 31
+    "RunCount": 32
   },
   {
     "ID": 14288,
@@ -113613,7 +113613,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Dawa Tamang",
-    "RunCount": 35
+    "RunCount": 36
   },
   {
     "ID": 14294,
@@ -113701,7 +113701,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Suresh Majhi",
-    "RunCount": 16
+    "RunCount": 17
   },
   {
     "ID": 14305,
@@ -113709,7 +113709,7 @@
     "Age": 7,
     "Sex": "F",
     "Parent": "Dev Raj Limbu",
-    "RunCount": 28
+    "RunCount": 29
   },
   {
     "ID": 14306,
@@ -113789,7 +113789,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Ganesh Bahadur Biswakarma",
-    "RunCount": 31
+    "RunCount": 32
   },
   {
     "ID": 14316,
@@ -113797,7 +113797,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "Lekhman Nepali",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14317,
@@ -113877,7 +113877,7 @@
     "Age": 8,
     "Sex": "F",
     "Parent": "Machindra Rai",
-    "RunCount": 34
+    "RunCount": 35
   },
   {
     "ID": 14327,
@@ -114069,7 +114069,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Rupen Limbu",
-    "RunCount": 27
+    "RunCount": 28
   },
   {
     "ID": 14351,
@@ -114181,7 +114181,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Garesh Limbu",
-    "RunCount": 32
+    "RunCount": 33
   },
   {
     "ID": 14365,
@@ -114213,7 +114213,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Anan Subba",
-    "RunCount": 27
+    "RunCount": 28
   },
   {
     "ID": 14369,
@@ -114253,7 +114253,7 @@
     "Age": 15,
     "Sex": "F",
     "Parent": "Madan Rai",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 14374,
@@ -114268,7 +114268,7 @@
     "Fullname": "Anan Subba",
     "Age": 41,
     "Sex": "M",
-    "Parent": "Parent's NameArun Kumar Subba",
+    "Parent": "Arun Kumar Subba",
     "RunCount": 30
   },
   {
@@ -114301,7 +114301,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Karna Bahadur Pradhan",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14380,
@@ -114429,7 +114429,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Dilu Limbu",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14396,
@@ -114437,7 +114437,7 @@
     "Age": 14,
     "Sex": "F",
     "Parent": "Milan Pariyar",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 14397,
@@ -114469,7 +114469,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Amos Magar",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 14401,
@@ -114485,7 +114485,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Harka Limbu",
-    "RunCount": 25
+    "RunCount": 26
   },
   {
     "ID": 14403,
@@ -114517,7 +114517,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Ram Prasad Rai",
-    "RunCount": 32
+    "RunCount": 33
   },
   {
     "ID": 14407,
@@ -114541,7 +114541,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Prem Century",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14410,
@@ -114549,7 +114549,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Bikram Rai",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14411,
@@ -114717,46 +114717,46 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Sagar Rai",
-    "RunCount": 8
+    "RunCount": 9
   },
   {
     "ID": 14432,
     "Fullname": "Jesan Rai",
     "Age": 6,
     "Sex": "M",
-    "Parent": "Parentr's NameBina Rai",
-    "RunCount": 23
+    "Parent": "Bina Rai",
+    "RunCount": 24
   },
   {
     "ID": 14433,
     "Fullname": "Adarsh Gurung",
     "Age": 8,
     "Sex": "M",
-    "Parent": "Parentr's NameBirkhey Bahadur Gurung",
-    "RunCount": 21
+    "Parent": "Birkhey Bahadur Gurung",
+    "RunCount": 22
   },
   {
     "ID": 14434,
     "Fullname": "Ujan Rai",
     "Age": 9,
     "Sex": "M",
-    "Parent": "Parentr's NameBina Rai",
-    "RunCount": 23
+    "Parent": "Bina Rai",
+    "RunCount": 24
   },
   {
     "ID": 14435,
     "Fullname": "Aryal Gurung",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parentr's NameBirkha Bahadur Gurung",
-    "RunCount": 26
+    "Parent": "Birkha Bahadur Gurung",
+    "RunCount": 27
   },
   {
     "ID": 14436,
     "Fullname": "Merina B.K.",
     "Age": 10,
     "Sex": "F",
-    "Parent": "Parentr's NameRam Bahadur B.K.",
+    "Parent": "Ram Bahadur B.K.",
     "RunCount": 1
   },
   {
@@ -114764,7 +114764,7 @@
     "Fullname": "Grishma Gurung",
     "Age": 11,
     "Sex": "F",
-    "Parent": "Parentr's NameBirkha Bahadur Gurung",
+    "Parent": "Birkha Bahadur Gurung",
     "RunCount": 10
   },
   {
@@ -114772,7 +114772,7 @@
     "Fullname": "Anil Magar",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parentr's NamePrabin Magar",
+    "Parent": "Prabin Magar",
     "RunCount": 6
   },
   {
@@ -114780,23 +114780,23 @@
     "Fullname": "Roman Magar",
     "Age": 8,
     "Sex": "M",
-    "Parent": "Parentr's NameRakesh Magar",
-    "RunCount": 29
+    "Parent": "Rakesh Magar",
+    "RunCount": 30
   },
   {
     "ID": 14440,
     "Fullname": "Rewan Magar(Add 1Week)",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parentr's NameAtal Magar",
-    "RunCount": 32
+    "Parent": "Atal Magar",
+    "RunCount": 33
   },
   {
     "ID": 14441,
     "Fullname": "Sunil Rai",
     "Age": 13,
     "Sex": "M",
-    "Parent": "Parentr's NameMughadhan Rai",
+    "Parent": "Mughadhan Rai",
     "RunCount": 1
   },
   {
@@ -114804,7 +114804,7 @@
     "Fullname": "Sangae Sherpa",
     "Age": 12,
     "Sex": "M",
-    "Parent": "Parentr's NameDatemba Sherpa",
+    "Parent": "Datemba Sherpa",
     "RunCount": 9
   },
   {
@@ -114812,7 +114812,7 @@
     "Fullname": "Handsome Limbu",
     "Age": 14,
     "Sex": "M",
-    "Parent": "Parentr's NameKhadka Bahadur Limbu",
+    "Parent": "Khadka Bahadur Limbu",
     "RunCount": 3
   },
   {
@@ -114820,7 +114820,7 @@
     "Fullname": "Mohan Karki",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parentr's NameKumar Kakri",
+    "Parent": "Kumar Kakri",
     "RunCount": 8
   },
   {
@@ -114828,15 +114828,15 @@
     "Fullname": "Merina Rai",
     "Age": 10,
     "Sex": "F",
-    "Parent": "Parentr's NameChhangchung Rai",
-    "RunCount": 16
+    "Parent": "Chhangchung Rai",
+    "RunCount": 17
   },
   {
     "ID": 14446,
     "Fullname": "Nikesh Dahal",
     "Age": 10,
     "Sex": "M",
-    "Parent": "Parentr's NameSabin Dahal",
+    "Parent": "Sabin Dahal",
     "RunCount": 2
   },
   {
@@ -114844,7 +114844,7 @@
     "Fullname": "Milan Rai",
     "Age": 35,
     "Sex": "M",
-    "Parent": "Parentr's NamePancha Rai",
+    "Parent": "Pancha Rai",
     "RunCount": 5
   },
   {
@@ -114852,7 +114852,7 @@
     "Fullname": "Jasan Rai",
     "Age": 6,
     "Sex": "M",
-    "Parent": "Parentr's NameBuddha Busan Rai",
+    "Parent": "Buddha Busan Rai",
     "RunCount": 2
   },
   {
@@ -114901,7 +114901,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Sudip Limbu",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14455,
@@ -114925,7 +114925,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Gore Tamang",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 14458,
@@ -115044,7 +115044,7 @@
     "Fullname": "Sanjay Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "Parent's NameSinghabir  Rai",
+    "Parent": "Singhabir  Rai",
     "RunCount": 14
   },
   {
@@ -115061,7 +115061,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Bikram Thakur",
-    "RunCount": 12
+    "RunCount": 13
   },
   {
     "ID": 14475,
@@ -115165,7 +115165,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Sudip Tamang",
-    "RunCount": 23
+    "RunCount": 24
   },
   {
     "ID": 14488,
@@ -115325,7 +115325,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Indra Limbu",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14508,
@@ -115429,7 +115429,7 @@
     "Age": 8,
     "Sex": "F",
     "Parent": "Atal Magar",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 14521,
@@ -115437,7 +115437,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Anil Rai",
-    "RunCount": 25
+    "RunCount": 26
   },
   {
     "ID": 14522,
@@ -115477,7 +115477,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Kishor Rai",
-    "RunCount": 23
+    "RunCount": 24
   },
   {
     "ID": 14527,
@@ -115485,7 +115485,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Meghraj Tamang",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 14528,
@@ -115509,7 +115509,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Man Bahadur Rai",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14531,
@@ -115581,7 +115581,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Hari Prasad Rai",
-    "RunCount": 26
+    "RunCount": 27
   },
   {
     "ID": 14540,
@@ -115613,7 +115613,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Nir Kumar Rai",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14544,
@@ -115621,7 +115621,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Dev Kumar Rai",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14545,
@@ -115629,7 +115629,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Rajendra Limbu",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14546,
@@ -115645,7 +115645,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Bal Kumar B.K.",
-    "RunCount": 20
+    "RunCount": 21
   },
   {
     "ID": 14548,
@@ -115653,7 +115653,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Bal KumarB.K.",
-    "RunCount": 11
+    "RunCount": 12
   },
   {
     "ID": 14549,
@@ -115669,7 +115669,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Ramesh Lingden",
-    "RunCount": 22
+    "RunCount": 23
   },
   {
     "ID": 14551,
@@ -115677,7 +115677,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Mani Kumar Limbu",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14552,
@@ -115685,7 +115685,7 @@
     "Age": 44,
     "Sex": "M",
     "Parent": "Lagan Bahadur Lingden",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 14553,
@@ -115725,7 +115725,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Tara Bhujel",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 14558,
@@ -115733,7 +115733,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Santu Limbu",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14559,
@@ -115869,7 +115869,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Laxman Tamang",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14576,
@@ -115933,7 +115933,7 @@
     "Age": 20,
     "Sex": "M",
     "Parent": "Kesharsingh Rai",
-    "RunCount": 24
+    "RunCount": 25
   },
   {
     "ID": 14584,
@@ -116005,7 +116005,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Suraj Gurung",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 14593,
@@ -116061,7 +116061,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Tarahang Rai",
-    "RunCount": 19
+    "RunCount": 20
   },
   {
     "ID": 14600,
@@ -116109,7 +116109,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Bijay Kumar Limbu",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 14606,
@@ -116229,7 +116229,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Nar Bahadur Bhujel",
-    "RunCount": 17
+    "RunCount": 18
   },
   {
     "ID": 14621,
@@ -116245,7 +116245,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Sanjiwan Rai",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 14623,
@@ -116293,7 +116293,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Tenjing Sherpa",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14629,
@@ -116341,7 +116341,7 @@
     "Age": 53,
     "Sex": "M",
     "Parent": "Makardhoj Limbu",
-    "RunCount": 14
+    "RunCount": 15
   },
   {
     "ID": 14635,
@@ -116349,7 +116349,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Namras Thapa",
-    "RunCount": 18
+    "RunCount": 19
   },
   {
     "ID": 14636,
@@ -116397,7 +116397,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Kebal Man Rai",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 14642,
@@ -116405,7 +116405,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Nabraj Thapa",
-    "RunCount": 16
+    "RunCount": 17
   },
   {
     "ID": 14643,
@@ -116429,7 +116429,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Sangram Limbu",
-    "RunCount": 10
+    "RunCount": 11
   },
   {
     "ID": 14646,
@@ -116477,7 +116477,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Rajib Dahal",
-    "RunCount": 19
+    "RunCount": 20
   },
   {
     "ID": 14652,
@@ -116549,7 +116549,7 @@
     "Age": 31,
     "Sex": "F",
     "Parent": "Hikmat Limbu",
-    "RunCount": 21
+    "RunCount": 22
   },
   {
     "ID": 14661,
@@ -116557,7 +116557,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Ganesh Baraili",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14662,
@@ -116613,7 +116613,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Bal Kumar Bhujel",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14669,
@@ -116645,7 +116645,7 @@
     "Age": 18,
     "Sex": "M",
     "Parent": "Purna Bahadur Yakkha",
-    "RunCount": 12
+    "RunCount": 13
   },
   {
     "ID": 14673,
@@ -116653,7 +116653,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Durga Rai",
-    "RunCount": 12
+    "RunCount": 13
   },
   {
     "ID": 14674,
@@ -116717,7 +116717,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Bhim Kumar Rai",
-    "RunCount": 12
+    "RunCount": 13
   },
   {
     "ID": 14682,
@@ -116829,7 +116829,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Tarahang Rai",
-    "RunCount": 15
+    "RunCount": 16
   },
   {
     "ID": 14696,
@@ -117133,7 +117133,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Sitaram Rai",
-    "RunCount": 12
+    "RunCount": 13
   },
   {
     "ID": 14734,
@@ -117189,7 +117189,7 @@
     "Age": 15,
     "Sex": "F",
     "Parent": "Hewahang Rai",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14741,
@@ -117205,7 +117205,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Duviraj Rai",
-    "RunCount": 11
+    "RunCount": 12
   },
   {
     "ID": 14743,
@@ -117213,7 +117213,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Avay Subba",
-    "RunCount": 13
+    "RunCount": 14
   },
   {
     "ID": 14744,
@@ -117293,7 +117293,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Jiwan Limbu",
-    "RunCount": 0
+    "RunCount": 1
   },
   {
     "ID": 14754,
@@ -117349,7 +117349,7 @@
     "Age": 20,
     "Sex": "M",
     "Parent": "Ambika Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14761,
@@ -117365,7 +117365,7 @@
     "Age": 7,
     "Sex": "F",
     "Parent": "Arun Limbu",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14763,
@@ -117445,7 +117445,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14773,
@@ -117493,7 +117493,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 8
+    "RunCount": 9
   },
   {
     "ID": 14779,
@@ -117517,7 +117517,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Gaurav Shrestha",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14782,
@@ -117565,7 +117565,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Daljit Limbu",
-    "RunCount": 11
+    "RunCount": 12
   },
   {
     "ID": 14788,
@@ -117573,7 +117573,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Udip Magar",
-    "RunCount": 10
+    "RunCount": 11
   },
   {
     "ID": 14789,
@@ -117581,7 +117581,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Man B.K.",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14790,
@@ -117669,7 +117669,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Sabin Pariyar",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14801,
@@ -117757,7 +117757,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Sumet Moktan",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14812,
@@ -117781,7 +117781,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Chandra Bahadur Rai",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14815,
@@ -117805,7 +117805,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Krishna Rai",
-    "RunCount": 9
+    "RunCount": 10
   },
   {
     "ID": 14818,
@@ -117845,7 +117845,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Hom Kumar Sharst",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14823,
@@ -117901,7 +117901,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Saskar Limbu",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14830,
@@ -117957,7 +117957,7 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Amar Bahadur Rai",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14837,
@@ -117981,7 +117981,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Tanka Tamang",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14840,
@@ -118045,7 +118045,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Dipak Rai",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14848,
@@ -118125,7 +118125,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Rupesh Rai",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14858,
@@ -118173,7 +118173,7 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Nar Bahadur Shrestha",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14864,
@@ -118221,7 +118221,7 @@
     "Age": 19,
     "Sex": "M",
     "Parent": "Bir Bahadur Magar",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14870,
@@ -118269,7 +118269,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Nar Bahadur Limbu",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14876,
@@ -118285,7 +118285,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Bahal Rai",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14878,
@@ -118293,7 +118293,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Raj Kumar Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14879,
@@ -118325,7 +118325,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Alkaraj Limbu",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14883,
@@ -118333,7 +118333,7 @@
     "Age": 14,
     "Sex": "F",
     "Parent": "Rajesh Yakkha",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14884,
@@ -118341,7 +118341,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Rajesh Yakkha",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14885,
@@ -118365,7 +118365,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Dependra Shrestha",
-    "RunCount": 7
+    "RunCount": 8
   },
   {
     "ID": 14888,
@@ -118373,7 +118373,7 @@
     "Age": 7,
     "Sex": "M",
     "Parent": "Lokmadi Shrestha",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14889,
@@ -118413,7 +118413,7 @@
     "Age": 20,
     "Sex": "F",
     "Parent": "Harkaraj Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14894,
@@ -118421,7 +118421,7 @@
     "Age": 16,
     "Sex": "F",
     "Parent": "Kumar Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14895,
@@ -118429,7 +118429,7 @@
     "Age": 16,
     "Sex": "F",
     "Parent": "Machindra Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14896,
@@ -118445,7 +118445,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Makar Bahadur Tamang",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14898,
@@ -118461,7 +118461,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Ram Kumar Rasaily",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14900,
@@ -118485,7 +118485,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Laxmi Limbu",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14903,
@@ -118525,7 +118525,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Santosh Magar",
-    "RunCount": 6
+    "RunCount": 7
   },
   {
     "ID": 14908,
@@ -118533,7 +118533,7 @@
     "Age": 8,
     "Sex": "F",
     "Parent": "Sanjip Rai",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14909,
@@ -118541,7 +118541,7 @@
     "Age": 8,
     "Sex": "F",
     "Parent": "Tanke Tamang",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14910,
@@ -118589,7 +118589,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Ram Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14916,
@@ -118597,7 +118597,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Jiban Limbu",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14917,
@@ -118629,7 +118629,7 @@
     "Age": 9,
     "Sex": "M",
     "Parent": "Santosh Tamang",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14921,
@@ -118637,7 +118637,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Ranjit Rai",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14922,
@@ -118677,7 +118677,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Hemraj Ale Magar",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14927,
@@ -118733,7 +118733,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Khagendra Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14934,
@@ -118741,7 +118741,7 @@
     "Age": 37,
     "Sex": "F",
     "Parent": "Sirihang Limbu",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14935,
@@ -118765,7 +118765,7 @@
     "Age": 8,
     "Sex": "M",
     "Parent": "Rajesh Shrestha",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14938,
@@ -118773,7 +118773,7 @@
     "Age": 16,
     "Sex": "F",
     "Parent": "Raju Uraw",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14939,
@@ -118781,7 +118781,7 @@
     "Age": 8,
     "Sex": "M",
     "Parent": "Shishir Limbu",
-    "RunCount": 5
+    "RunCount": 6
   },
   {
     "ID": 14940,
@@ -118805,7 +118805,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Ashok Rai",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14943,
@@ -118869,7 +118869,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Upendra Yadav",
-    "RunCount": 4
+    "RunCount": 5
   },
   {
     "ID": 14951,
@@ -118877,7 +118877,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Nagarshankar Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14952,
@@ -118893,7 +118893,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Sukraj Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14954,
@@ -118901,7 +118901,7 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Sukraj Rai",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14955,
@@ -118933,7 +118933,7 @@
     "Age": 6,
     "Sex": "F",
     "Parent": "Santa Kumar Wanem",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14959,
@@ -118941,7 +118941,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Ashok Limbu",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14960,
@@ -118949,7 +118949,7 @@
     "Age": 0,
     "Sex": "M",
     "Parent": "Amit Magar",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14961,
@@ -118989,7 +118989,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Kumar Majhi",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14966,
@@ -118997,7 +118997,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Ghanashyam Phuyal",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14967,
@@ -119021,7 +119021,7 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Birkha Tamang",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14970,
@@ -119045,7 +119045,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Tek Bahadur Tamang",
-    "RunCount": 3
+    "RunCount": 4
   },
   {
     "ID": 14973,
@@ -119053,7 +119053,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Amar Singh Limbu",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14974,
@@ -119061,7 +119061,7 @@
     "Age": 46,
     "Sex": "M",
     "Parent": "Dik Bahadur Limbu",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14975,
@@ -119069,7 +119069,7 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Kishan Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14976,
@@ -119101,7 +119101,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Dhan Lawati",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14980,
@@ -119117,7 +119117,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Kumar Tamang",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14982,
@@ -119125,7 +119125,7 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Kishor Limbu",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14983,
@@ -119141,7 +119141,7 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Sitaram B.K.",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14985,
@@ -119165,7 +119165,7 @@
     "Age": 7,
     "Sex": "F",
     "Parent": "Shyam Kumar Rai",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14988,
@@ -119189,7 +119189,7 @@
     "Age": 58,
     "Sex": "M",
     "Parent": "Haribhakta Rai",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14991,
@@ -119205,7 +119205,7 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Sudip Rana Magar",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14993,
@@ -119229,7 +119229,7 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Jamak Basnet",
-    "RunCount": 2
+    "RunCount": 3
   },
   {
     "ID": 14996,
@@ -119245,7 +119245,7 @@
     "Age": 38,
     "Sex": "M",
     "Parent": "Uday Bahadur Shrestha",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14998,
@@ -119253,7 +119253,7 @@
     "Age": 36,
     "Sex": "M",
     "Parent": "Chitra Bahadur Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 14999,
@@ -119261,7 +119261,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Gopal Ale Magar",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15000,
@@ -119277,7 +119277,7 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Prem Karki",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15002,
@@ -119293,7 +119293,7 @@
     "Age": 9,
     "Sex": "F",
     "Parent": "Uday Limbu",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15004,
@@ -119421,7 +119421,7 @@
     "Age": 13,
     "Sex": "F",
     "Parent": "Rajendra Limbu",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15020,
@@ -119485,7 +119485,7 @@
     "Age": 13,
     "Sex": "M",
     "Parent": "Lok Bahadur Limbu",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15028,
@@ -119501,7 +119501,7 @@
     "Age": 15,
     "Sex": "F",
     "Parent": "Himal Rai",
-    "RunCount": 1
+    "RunCount": 2
   },
   {
     "ID": 15030,
@@ -119509,6 +119509,254 @@
     "Age": 46,
     "Sex": "F",
     "Parent": "Bhuwan Singh Rai",
+    "RunCount": 2
+  },
+  {
+    "ID": 15031,
+    "Fullname": "Sunal Tamang",
+    "Age": 12,
+    "Sex": "M",
+    "Parent": "Pasang Tamang",
+    "RunCount": 1
+  },
+  {
+    "ID": 15032,
+    "Fullname": "Nirmit Shrestha",
+    "Age": 12,
+    "Sex": "M",
+    "Parent": "Sushil Shrestha",
+    "RunCount": 1
+  },
+  {
+    "ID": 15033,
+    "Fullname": "Yural Limbu",
+    "Age": 10,
+    "Sex": "M",
+    "Parent": "Raju Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15034,
+    "Fullname": "Rinchen Magar",
+    "Age": 11,
+    "Sex": "M",
+    "Parent": "Rajiv Magar",
+    "RunCount": 1
+  },
+  {
+    "ID": 15035,
+    "Fullname": "Anil Limbu",
+    "Age": 20,
+    "Sex": "M",
+    "Parent": "Yudha Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15036,
+    "Fullname": "Diyash Limbu",
+    "Age": 12,
+    "Sex": "F",
+    "Parent": "Riddhi Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15037,
+    "Fullname": "Numa Rai",
+    "Age": 11,
+    "Sex": "F",
+    "Parent": "Kuber Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15038,
+    "Fullname": "Prakriti Rai",
+    "Age": 23,
+    "Sex": "F",
+    "Parent": "Kabindra Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15039,
+    "Fullname": "Hangcha Rai",
+    "Age": 6,
+    "Sex": "M",
+    "Parent": "Prakriti Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15040,
+    "Fullname": "Ayush Tamang",
+    "Age": 13,
+    "Sex": "M",
+    "Parent": "Lalit Tamang",
+    "RunCount": 1
+  },
+  {
+    "ID": 15041,
+    "Fullname": "Mahendra Shrestha",
+    "Age": 13,
+    "Sex": "M",
+    "Parent": "Nagendra Shrestha",
+    "RunCount": 1
+  },
+  {
+    "ID": 15042,
+    "Fullname": "Abisek Limbu",
+    "Age": 17,
+    "Sex": "M",
+    "Parent": "Narendra Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15043,
+    "Fullname": "Amon Kumar Pandir",
+    "Age": 13,
+    "Sex": "M",
+    "Parent": "Bijay Kumar Pandir",
+    "RunCount": 1
+  },
+  {
+    "ID": 15044,
+    "Fullname": "Shaina Limbu",
+    "Age": 11,
+    "Sex": "F",
+    "Parent": "Sharmila Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15045,
+    "Fullname": "Dipak Bista",
+    "Age": 31,
+    "Sex": "M",
+    "Parent": "Tanka Bahadur Bista",
+    "RunCount": 1
+  },
+  {
+    "ID": 15046,
+    "Fullname": "Sharmila Limbu",
+    "Age": 28,
+    "Sex": "F",
+    "Parent": "Man Bahadur Limbu",
+    "RunCount": 1
+  },
+  {
+    "ID": 15047,
+    "Fullname": "Ansh Ruchal",
+    "Age": 9,
+    "Sex": "M",
+    "Parent": "Santosh Ruchal",
+    "RunCount": 1
+  },
+  {
+    "ID": 15048,
+    "Fullname": "Krishna Rai",
+    "Age": 16,
+    "Sex": "M",
+    "Parent": "Chhatra Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15049,
+    "Fullname": "Madan Seling",
+    "Age": 18,
+    "Sex": "M",
+    "Parent": "Mahendra Seling",
+    "RunCount": 1
+  },
+  {
+    "ID": 15050,
+    "Fullname": "Arun Rai",
+    "Age": 15,
+    "Sex": "M",
+    "Parent": "Guman Singh Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15051,
+    "Fullname": "Milan Rai",
+    "Age": 19,
+    "Sex": "M",
+    "Parent": "Kishor Kumar Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15052,
+    "Fullname": "Juhi Rai",
+    "Age": 12,
+    "Sex": "F",
+    "Parent": "Sitaram Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15053,
+    "Fullname": "Binita Rai",
+    "Age": 13,
+    "Sex": "F",
+    "Parent": "Ninat Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15054,
+    "Fullname": "Saran Rai",
+    "Age": 30,
+    "Sex": "M",
+    "Parent": "Full Bahadur Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15055,
+    "Fullname": "Aayush Rai",
+    "Age": 17,
+    "Sex": "M",
+    "Parent": "Dai Krishna Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15056,
+    "Fullname": "Saroj Rai",
+    "Age": 19,
+    "Sex": "M",
+    "Parent": "Narayan Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15057,
+    "Fullname": "Ajaya Rai",
+    "Age": 19,
+    "Sex": "M",
+    "Parent": "Elakhe Rai",
+    "RunCount": 1
+  },
+  {
+    "ID": 15058,
+    "Fullname": "Nayan Magar",
+    "Age": 10,
+    "Sex": "M",
+    "Parent": "Taman Rana Magar",
+    "RunCount": 1
+  },
+  {
+    "ID": 15059,
+    "Fullname": "Hima Gurung",
+    "Age": 42,
+    "Sex": "F",
+    "Parent": "Damar Bahadur Gurung",
+    "RunCount": 1
+  },
+  {
+    "ID": 15060,
+    "Fullname": "Punam Dewan",
+    "Age": 43,
+    "Sex": "F",
+    "Parent": "Nansa Bahadur Kambang",
+    "RunCount": 1
+  },
+  {
+    "ID": 15061,
+    "Fullname": "Ayush Kumar Das",
+    "Age": 12,
+    "Sex": "M",
+    "Parent": "Shankar Das",
     "RunCount": 1
   }
 ]
