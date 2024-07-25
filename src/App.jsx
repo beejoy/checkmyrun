@@ -27,9 +27,9 @@ const App = () => {
         <img
           src={logo}
           alt="Dharan Run"
-          className="rounded-full w-1/2 border-2 border-green-700 mb-8"
+          className="rounded-full w-1/2 border-green-700 mb-8"
           width="160px"
-          height="160px"
+          height="190px"
         />
         <form
           onSubmit={handleSubmit}
