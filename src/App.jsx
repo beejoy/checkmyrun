@@ -18,16 +18,6 @@ const App = () => {
           )
         )
       : setRunner(runData.filter((data) => data.ID === Number(searchTerm)));
-
-    searchTerm.match(/parent:[a-z]/)
-      ? setRunner(
-          runData.filter((data) =>
-            data.Parent.toLowerCase().match(
-              searchTerm.length > 0 ? searchTerm : "xiaomi"
-            )
-          )
-        )
-      : setRunner(runData.filter((data) => data.ID === Number(searchTerm)));
     setSearchTerm("");
   };
 
