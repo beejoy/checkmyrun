@@ -16,7 +16,7 @@ const MemberCard = ({ data }) => {
         <span>
           Age/Sex: {data["Age"]}yrs / {data["Sex"]}
         </span>
-        <span>Distance: {data["RunCount"] * 3.5} km</span>
+        <span>Last Run Week: {data["LastRunWeek"]}</span>
       </p>
 
       <p>Parent's Name: {data["Parent"]}</p>
