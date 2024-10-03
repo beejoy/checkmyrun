@@ -3389,8 +3389,8 @@
     "Age": 26,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 129,
-    "LastRunWeek": 648
+    "RunCount": 130,
+    "LastRunWeek": 649
   },
   {
     "ID": 378,
@@ -6035,8 +6035,8 @@
     "Age": 27,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 267,
-    "LastRunWeek": 647
+    "RunCount": 268,
+    "LastRunWeek": 649
   },
   {
     "ID": 687,
@@ -8321,8 +8321,8 @@
     "Age": 32,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 26,
-    "LastRunWeek": 644
+    "RunCount": 27,
+    "LastRunWeek": 649
   },
   {
     "ID": 953,
@@ -57421,12 +57421,12 @@
   },
   {
     "ID": 6464,
-    "Fullname": "Ramprasad Puran",
+    "Fullname": "Ram Prasad Uraw",
     "Age": 50,
     "Sex": "M",
     "Parent": "",
-    "RunCount": 282,
-    "LastRunWeek": 648
+    "RunCount": 283,
+    "LastRunWeek": 649
   },
   {
     "ID": 6465,
@@ -57442,7 +57442,7 @@
     "Fullname": "Sahil Tamang",
     "Age": 22,
     "Sex": "M",
-    "Parent": "dilip tamang",
+    "Parent": "Dilip Tamang",
     "RunCount": 11,
     "LastRunWeek": 592
   },
@@ -57487,7 +57487,7 @@
     "Fullname": "Hosen Khadka",
     "Age": 16,
     "Sex": "M",
-    "Parent": "parents Name:Hom Khadka",
+    "Parent": "Hom Khadka",
     "RunCount": 76,
     "LastRunWeek": 632
   },
@@ -57532,7 +57532,7 @@
     "Fullname": "sunil Rai",
     "Age": 21,
     "Sex": "M",
-    "Parent": "shyam Rai",
+    "Parent": "Shyam Rai",
     "RunCount": 3,
     "LastRunWeek": 311
   },
@@ -57586,7 +57586,7 @@
     "Fullname": "Aryan Gurung",
     "Age": 20,
     "Sex": "M",
-    "Parent": "raju Gurung",
+    "Parent": "Raju Gurung",
     "RunCount": 13,
     "LastRunWeek": 316
   },
@@ -57604,7 +57604,7 @@
     "Fullname": "Yadip Rai",
     "Age": 18,
     "Sex": "M",
-    "Parent": "santos Rai",
+    "Parent": "Santos Rai",
     "RunCount": 80,
     "LastRunWeek": 566
   },
@@ -76685,8 +76685,8 @@
     "Age": 17,
     "Sex": "M",
     "Parent": "Kamal Limbu",
-    "RunCount": 98,
-    "LastRunWeek": 648
+    "RunCount": 99,
+    "LastRunWeek": 649
   },
   {
     "ID": 8605,
@@ -87935,8 +87935,8 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Roman Limbu",
-    "RunCount": 101,
-    "LastRunWeek": 648
+    "RunCount": 102,
+    "LastRunWeek": 649
   },
   {
     "ID": 9858,
@@ -94262,8 +94262,8 @@
     "Age": 15,
     "Sex": "M",
     "Parent": "Subash Tamang",
-    "RunCount": 2,
-    "LastRunWeek": 364
+    "RunCount": 3,
+    "LastRunWeek": 649
   },
   {
     "ID": 10561,
@@ -103901,8 +103901,8 @@
     "Age": 39,
     "Sex": "F",
     "Parent": "Khadka Limbu",
-    "RunCount": 158,
-    "LastRunWeek": 648
+    "RunCount": 159,
+    "LastRunWeek": 649
   },
   {
     "ID": 11632,
@@ -114197,8 +114197,8 @@
     "Age": 30,
     "Sex": "F",
     "Parent": "Hark Raj Rai",
-    "RunCount": 27,
-    "LastRunWeek": 648
+    "RunCount": 28,
+    "LastRunWeek": 649
   },
   {
     "ID": 12779,
@@ -120101,8 +120101,8 @@
     "Age": 12,
     "Sex": "F",
     "Parent": "Khiriraj Rai",
-    "RunCount": 55,
-    "LastRunWeek": 648
+    "RunCount": 56,
+    "LastRunWeek": 649
   },
   {
     "ID": 13437,
@@ -124160,8 +124160,8 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Krishna Basnet",
-    "RunCount": 54,
-    "LastRunWeek": 648
+    "RunCount": 55,
+    "LastRunWeek": 649
   },
   {
     "ID": 13888,
@@ -124574,8 +124574,8 @@
     "Age": 16,
     "Sex": "M",
     "Parent": "Munna Yogi",
-    "RunCount": 79,
-    "LastRunWeek": 648
+    "RunCount": 80,
+    "LastRunWeek": 649
   },
   {
     "ID": 13934,
@@ -124817,8 +124817,8 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Dhan Prasad Limbu",
-    "RunCount": 82,
-    "LastRunWeek": 648
+    "RunCount": 83,
+    "LastRunWeek": 649
   },
   {
     "ID": 13961,
@@ -127427,8 +127427,8 @@
     "Age": 49,
     "Sex": "M",
     "Parent": "Hikmat Limbu",
-    "RunCount": 73,
-    "LastRunWeek": 648
+    "RunCount": 74,
+    "LastRunWeek": 649
   },
   {
     "ID": 14251,
@@ -127436,8 +127436,8 @@
     "Age": 6,
     "Sex": "M",
     "Parent": "Roman Limbu",
-    "RunCount": 73,
-    "LastRunWeek": 648
+    "RunCount": 74,
+    "LastRunWeek": 649
   },
   {
     "ID": 14252,
@@ -127895,8 +127895,8 @@
     "Age": 10,
     "Sex": "F",
     "Parent": "Dambar Kumar Rai",
-    "RunCount": 24,
-    "LastRunWeek": 647
+    "RunCount": 25,
+    "LastRunWeek": 649
   },
   {
     "ID": 14303,
@@ -128534,8 +128534,8 @@
     "Age": 15,
     "Sex": "F",
     "Parent": "Madan Rai",
-    "RunCount": 28,
-    "LastRunWeek": 647
+    "RunCount": 29,
+    "LastRunWeek": 649
   },
   {
     "ID": 14374,
@@ -129461,8 +129461,8 @@
     "Age": 11,
     "Sex": "F",
     "Parent": "Kaji Limbu",
-    "RunCount": 13,
-    "LastRunWeek": 648
+    "RunCount": 14,
+    "LastRunWeek": 649
   },
   {
     "ID": 14477,
@@ -129677,8 +129677,8 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Kishan Tamang",
-    "RunCount": 54,
-    "LastRunWeek": 648
+    "RunCount": 55,
+    "LastRunWeek": 649
   },
   {
     "ID": 14501,
@@ -131117,8 +131117,8 @@
     "Age": 31,
     "Sex": "F",
     "Parent": "Hikmat Limbu",
-    "RunCount": 49,
-    "LastRunWeek": 648
+    "RunCount": 50,
+    "LastRunWeek": 649
   },
   {
     "ID": 14661,
@@ -134159,8 +134159,8 @@
     "Age": 36,
     "Sex": "M",
     "Parent": "Chitra Bahadur Rai",
-    "RunCount": 26,
-    "LastRunWeek": 648
+    "RunCount": 27,
+    "LastRunWeek": 649
   },
   {
     "ID": 14999,
@@ -134456,8 +134456,8 @@
     "Age": 12,
     "Sex": "M",
     "Parent": "Pasang Tamang",
-    "RunCount": 17,
-    "LastRunWeek": 648
+    "RunCount": 18,
+    "LastRunWeek": 649
   },
   {
     "ID": 15032,
@@ -134951,8 +134951,8 @@
     "Age": 34,
     "Sex": "F",
     "Parent": "Karna Bahadur Sundas",
-    "RunCount": 15,
-    "LastRunWeek": 648
+    "RunCount": 16,
+    "LastRunWeek": 649
   },
   {
     "ID": 15087,
@@ -134969,8 +134969,8 @@
     "Age": 44,
     "Sex": "F",
     "Parent": "Hangnarayan Limbu",
-    "RunCount": 15,
-    "LastRunWeek": 648
+    "RunCount": 16,
+    "LastRunWeek": 649
   },
   {
     "ID": 15089,
@@ -135860,8 +135860,8 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Gopal Kumal",
-    "RunCount": 9,
-    "LastRunWeek": 648
+    "RunCount": 10,
+    "LastRunWeek": 649
   },
   {
     "ID": 15188,
@@ -136454,8 +136454,8 @@
     "Age": 21,
     "Sex": "M",
     "Parent": "Tek bahadur",
-    "RunCount": 15,
-    "LastRunWeek": 648
+    "RunCount": 16,
+    "LastRunWeek": 649
   },
   {
     "ID": 15254,
@@ -139352,8 +139352,8 @@
     "Age": 54,
     "Sex": "M",
     "Parent": "Jay Prasad Rai",
-    "RunCount": 10,
-    "LastRunWeek": 647
+    "RunCount": 11,
+    "LastRunWeek": 649
   },
   {
     "ID": 15576,
@@ -139505,8 +139505,8 @@
     "Age": 10,
     "Sex": "M",
     "Parent": "Lalit  Rai",
-    "RunCount": 11,
-    "LastRunWeek": 648
+    "RunCount": 12,
+    "LastRunWeek": 649
   },
   {
     "ID": 15593,
@@ -140387,8 +140387,8 @@
     "Age": 25,
     "Sex": "M",
     "Parent": "Bakhane Rai",
-    "RunCount": 4,
-    "LastRunWeek": 648
+    "RunCount": 5,
+    "LastRunWeek": 649
   },
   {
     "ID": 15691,
@@ -141989,8 +141989,8 @@
     "Age": 11,
     "Sex": "M",
     "Parent": "Anup Shrestha",
-    "RunCount": 2,
-    "LastRunWeek": 648
+    "RunCount": 3,
+    "LastRunWeek": 649
   },
   {
     "ID": 15869,
@@ -142160,8 +142160,8 @@
     "Age": 14,
     "Sex": "M",
     "Parent": "Ray Kumar Rai",
-    "RunCount": 1,
-    "LastRunWeek": 648
+    "RunCount": 2,
+    "LastRunWeek": 649
   },
   {
     "ID": 15888,
