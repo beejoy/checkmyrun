@@ -90572,8 +90572,8 @@
     "Age": 24,
     "Sex": "M",
     "Parent": "Sansar Man Rai",
-    "RunCount": 1,
-    "LastRunWeek": 350
+    "RunCount": 2,
+    "LastRunWeek": 351
   },
   {
     "ID": 10151,
@@ -90820,12 +90820,12 @@
   },
   {
     "ID": 10178,
-    "Fullname": "Dewahang Rai",
+    "Fullname": "See Code No. 10150",
     "Age": 24,
     "Sex": "M",
-    "Parent": "San Sharman Rai",
-    "RunCount": 1,
-    "LastRunWeek": 351
+    "Parent": "",
+    "RunCount": 0,
+    "LastRunWeek": ""
   },
   {
     "ID": 10179,
@@ -139852,7 +139852,7 @@
   },
   {
     "ID": 15631,
-    "Fullname": "Alish Rai",
+    "Fullname": "Alish Rai(Add 1Week )",
     "Age": 5,
     "Sex": "M",
     "Parent": "Indrajit Rai",
@@ -141571,7 +141571,7 @@
   },
   {
     "ID": 15822,
-    "Fullname": "Blank",
+    "Fullname": "See Code No.",
     "Age": "",
     "Sex": "",
     "Parent": "",
@@ -141616,12 +141616,12 @@
   },
   {
     "ID": 15827,
-    "Fullname": "See Code No. 15694",
-    "Age": "",
-    "Sex": "",
-    "Parent": "",
-    "RunCount": 0,
-    "LastRunWeek": ""
+    "Fullname": "Hansel Tamang",
+    "Age": 6,
+    "Sex": "M",
+    "Parent": "Suman Tamang",
+    "RunCount": 4,
+    "LastRunWeek": 660
   },
   {
     "ID": 15828,
@@ -141940,12 +141940,12 @@
   },
   {
     "ID": 15863,
-    "Fullname": "See Code No. 15694",
-    "Age": "",
-    "Sex": "",
-    "Parent": "",
-    "RunCount": 0,
-    "LastRunWeek": ""
+    "Fullname": "Kristina Bhujel",
+    "Age": 12,
+    "Sex": "F",
+    "Parent": "Kamal Bhujel",
+    "RunCount": 3,
+    "LastRunWeek": 660
   },
   {
     "ID": 15864,
